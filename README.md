@@ -18,17 +18,18 @@ Ejemplo 2: dedico a mi proyecto durante la mañana 3 h y 40' (= 2 puntos), duran
 El número de destrezas y proyectos máximos a desarrollar a la misma vez en un **333dot3 System Challenge** se aconseja que no supere ¿ 3 ?. Deberías contemplar la idea de si más es menos en ciertos casos. Para más de una habilidad o proyecto se sigue el mismo patrón de puntos pero si lees bien La Gran Meta ☝️ debes evitar quemarte o perder el objetivo en el intento. ¿Mejor tortuga que liebre en algunos casos?  
 
 ### ¿Destrezas y Habilidades?  
-Las habilidades son las destrezas elegidas por ti a mejorar y se deben incluir en alguna de estas 3 fases: iniciar (cero destreza), mejorar (tengo algo ya) o pulir (ya tengo bastante pero quiero ser super pro).  
+Las habilidades son las destrezas elegidas por ti a mejorar. Tu evolución la puedes ver si haces un seguimiento de tu hoja de ruta anotando tus logros diarios en github, discord o cualquier otro medio.
+
 No subestimes la curva de aprendizaje, mientras más avanzas más vertical se hace.  
 
 ### ¿Proyectos?  
-Lo que te propongas a realizar.  
+Lo que te propongas a realizar y lo categorizas igual que a las destrezas pero denominándolo  
 
 # Mi desafío 333dot3 Code Challenge:  
 Mi día lo divido en las siguientes fracciones horarias: de mañana (de 6 a 14 h), tarde (de 14 a 22 h) y noche (de 22 a 6 h).  
 Decido que mi marco temporal sea desde hoy hasta final de 2023, 11 meses, y he tenido en cuenta mis posibilidades y número de destrezas y proyectos a desarrollar.  
   
-He decidido introducir 2 grandes destrezas y 1 proyecto a la vez: 1º JAVASCRIPT y su entorno (iniciar), 2º ETHEREUM y entorno WEB3 (iniciar) y 3º desarrollar FRONTEND Web para una DAO conectando web2-web3 (iniciar).  
+He decidido introducir 2 grandes destrezas y 1 proyecto a la vez: 1º JAVASCRIPT y su entorno, 2º ETHEREUM y entorno WEB3 y 3º desarrollar FRONTEND Web para una DAO conectando web2-web3.  
 
-Objetivo: Al menos 33 minutos de dedicación a cada habilidad o proyecto durante 333 veces/fracciones (1 fracción >= 33') en 2023. Alcanzaré como mínimo 183.15 horas x destreza o proyecto.  
+Objetivo: Como mínimo 33 minutos de dedicación a cada habilidad o proyecto durante 333 veces/fracciones (1 fracción >= 33') en 2023. De esta forma cumplimos con La Gran Meta 👀 de aprendizaje acumulativo en flow y para mejorar la versión de mi mismo lograr objetivos alcanzables🚀. Vamos hablando!!!
 
