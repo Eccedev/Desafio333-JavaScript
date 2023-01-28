@@ -11,7 +11,7 @@ Cada fracción suma un punto si se han dedicado al menos 33' (minutos) a una des
 Para una destreza el máximo de puntos por día será 3. ¿Por qué? Porque la suma de los tiempos mínimos acumulados superarían las 7 h y no sería un aprendizaje provechoso y acumulativo para una habilidad concreta en un día.   
 Ejemplo 1: dedico a una destreza durante la mañana 3 h y 10' (= 1 punto), durante  la tarde 35' (= 1 punto), durante  la noche duermo😴. Total 1+1= 2 puntos para esa habilidad.  
 Ejemplo 2: dedico a una destreza durante la mañana 3 h y 40' (= 2 puntos), durante la tarde trabajo👨🏾‍🍳, durante la noche 3 h 50' (= 2 puntos ⛔). Total 2+2 (📢se sobrepasa el límite máximo diario) = 3 puntos para esa habilidad.  
-El número de destrezas máximas a desarrollar a la misma vez en el **33dot3 system** será de 3. Deberías contemplar la idea de si más es menos en ciertos casos. Para más de una habilidad se sigue el mismo patrón de puntos pero si lees bien La Gran Meta ☝️ debes evitar quemarte o perder el objetivo en el intento. ¿Mejor tortuga que liebre en estos caso?  
+El número de destrezas máximas a desarrollar a la misma vez en el **333dot3 code system** será de 3. Deberías contemplar la idea de si más es menos en ciertos casos. Para más de una habilidad se sigue el mismo patrón de puntos pero si lees bien La Gran Meta ☝️ debes evitar quemarte o perder el objetivo en el intento. ¿Mejor tortuga que liebre en estos caso?  
 
 ### ¿Destrezas?¿Habilidades?  
 Las habilidades son las destrezas elegidas por ti a mejorar y se deben incluir en alguna de estas 3 fases: iniciar (cero destreza), mejorar (tengo algo ya) o pulir (ya tengo bastante pero quiero ser super pro).  
