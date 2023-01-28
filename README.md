@@ -23,13 +23,13 @@ Las habilidades son las destrezas elegidas por ti a mejorar. Tu evolución la pu
 No subestimes la curva de aprendizaje, mientras más avanzas más vertical se hace.  
 
 ### ¿Proyectos?  
-Lo que te propongas a realizar y lo categorizas igual que a las destrezas pero denominándolo  
+Lo que te propongas a realizar.   
 
 # Mi desafío 333dot3 Code Challenge:  
 Mi día lo divido en las siguientes fracciones horarias: de mañana (de 6 a 14 h), tarde (de 14 a 22 h) y noche (de 22 a 6 h).  
 Decido que mi marco temporal sea desde hoy hasta final de 2023, 11 meses, y he tenido en cuenta mis posibilidades y número de destrezas y proyectos a desarrollar.  
   
-He decidido introducir 2 grandes destrezas y 1 proyecto a la vez: 1º JAVASCRIPT y su entorno, 2º ETHEREUM y entorno WEB3 y 3º desarrollar FRONTEND Web para una DAO conectando web2-web3.  
+He decidido introducir 2 grandes destrezas y 1 proyecto a la vez, todo se relacionará: 1º JAVASCRIPT y su entorno, 2º ETHEREUM y entorno WEB3 y 3º desarrollar FRONTEND Web para una DAO conectando web2-web3.  
 
 Objetivo: Como mínimo 33 minutos de dedicación a cada habilidad o proyecto durante 333 veces/fracciones (1 fracción >= 33') en 2023. De esta forma cumplimos con La Gran Meta 👀 de aprendizaje acumulativo en flow y para mejorar la versión de mi mismo lograr objetivos alcanzables🚀. Vamos hablando!!!
 
