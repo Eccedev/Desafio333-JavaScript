@@ -6,7 +6,7 @@ Atrapando como idea el post de [freecodecamp](https://www.freecodecamp.org/news/
 El **sistema 333dot3** está pensado para conseguir sumar al menos 333 **puntos de fracciones** entre las **destrezas** seleccionadas por uno mismo. Sé realista y pon tus objetivos "alcanzables". 
 
 #### ¿Puntos?¿Fracción?  
-El día se divide en 3 posibles fracciones: mañana, tarde y noche. Y cada fracción acumula de 1 a 2 puntos según el tiempo invertido y destreza desarrollada.
+El día se divide en 3 posibles fracciones: mañana, tarde y noche. Cada fracción puede acumular de 1 a 2 puntos según el tiempo invertido.  
 Cada fracción suma un punto si se han dedicado al menos 33' (minutos) a una destreza (o habilidad), y los excesos de tiempo durante esa fracción (parte del día) solo suman otro punto más si se acumula más de 3 h (horas) y 33' de dedicación a esa misma habilidad. ¡Recuerda La Gran Meta ☝️!  
 Para una destreza el máximo de puntos por día será 3. ¿Por qué? Porque la suma de los tiempos mínimos acumulados superarían las 7 h y no sería un aprendizaje provechoso y acumulativo para una habilidad concreta en un día.   
 Ejemplo 1: dedico a una destreza durante la mañana 3 h y 10' (= 1 punto), durante  la tarde 35' (= 1 punto), durante  la noche duermo😴. Total 1+1= 2 puntos para esa habilidad.  
