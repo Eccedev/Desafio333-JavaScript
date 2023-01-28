@@ -1,4 +1,4 @@
-# 333dot3 Code System Challenge  
+# 333dot3 Code Challenge  
 Atrapando como idea el post de [freecodecamp](https://www.freecodecamp.org/news/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d/) y [Alex Kallaway](https://github.com/Kallaway/100-days-of-code) quiero ir un poco más allá y me propongo a realizar un seguimiento de mi desarrollo de destrezas bajo este sistema que he llamado "333dot3 System" y como aquí hablamos código entonces tenemos **333dot3 Code Challenge** . Es un experimento con vistas a divertirme mientras mejoro destrezas y creo proyectos. ¡Cópiame la idea que la distribuyo opensource 😃!  
 
 ### Pocas normas, pero sé flexible y adáptala a ti si te unes.  
