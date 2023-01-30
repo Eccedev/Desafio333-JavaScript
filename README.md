@@ -19,9 +19,9 @@ Nota: si alcanzas muy temprano tus 333 mordidas podrías sentirte algo decepcion
 
 #### ¿Mordidas y Fracciones?  
 Cada día se divide en 3 posibles fracciones: mañana, tarde y noche.  
-En cada fracción (parte del día) se suma una mordida si se han dedicado al menos 33' (minutos) a una destreza (habilidad, aprendizaje) o proyecto.  
-Los excesos de tiempo durante esa fracción (parte del día) o día solo suman otra mordida más si se acumula al menos 3 h (horas) y 33' de dedicación a esa misma habilidad o proyecto. ¡Recuerda La Gran Meta ☝️ y disfruta!  
-Para una destreza o proyecto concreto el máximo de mordidas por día será 3. ¿Máximo 3❓? Porque la suma de los tiempos mínimos acumulados superarían las 4 h y porque aumentar más de 3 mordidas no sería un aprendizaje provechoso y acumulativo para una habilidad concreta en un día a largo plazo. 
+En cada fracción (parte del día) se suma una mordida si se ha mordido (dedicado) al menos 33 minutos a una destreza (habilidad, aprendizaje) o proyecto.  
+Los excesos de tiempo durante esa fracción (parte del día) o día solo suman otra mordida más si se acumula al menos 3 h (horas) y 33' (minutos) de dedicación a esa misma habilidad o proyecto. ¡Recuerda La Gran Meta ☝️ y disfruta!  
+Para una destreza o proyecto concreto el máximo de mordidas por día será 3. ¿Máximo 3❓? Porque la suma de los tiempos mínimos acumulados superarían las 4 h; porque aumentar más de 3 mordidas no sería un aprendizaje provechoso y acumulativo para una habilidad concreta en un día a largo plazo; porque tres mordidas a la misma cosa son muchas para el mismo perr@ :). 
   
 **Ejemplo 1**: Quiero mejorar mi destreza en desarrollo web HTML. El primer día en mi "Desafío 333dot3 HTML" dedico:  
 durante la mañana 2 h y 10' (= 1 ),  
