@@ -1,4 +1,4 @@
-# Progreso y anotaciones  **Reto 333dot3 JS y su entorno**
+# Progreso y anotaciones  **"Reto 333dot3 JS y su entorno"**
 
 ### Fecha 31/01/2023 = 1 mordida - 1h 50'. Acumulado 1 mordida - 1h 50'.  
 Lugar: [Alchemy University](https://university.alchemy.com/home) - Javascript Fundamentals  
