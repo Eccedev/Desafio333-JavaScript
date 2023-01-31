@@ -2,7 +2,7 @@
 ###Mi **"Desafío 333dot3 JS-ETH-PROJ"** se compone de tres "Retos":  
 - **"Reto 333dot3 JS y su entorno":** que he denominado así porque tenía que poner alguno 😃 y se entiende muy bien su objetivo!  
 - **"Reto 333dot3 Ethereum y el entorno web3":** idem que el anterior😃.  
-- **"Reto 333dot3 Projectos web2-web3":** "DNS en Polygon"; desarrollar una "web2-web3 DAO"; desarrollar "Desafío 333dotX Mordidas", etc.
+- **"Reto 333dot3 Proyectos web2-web3":** "DNS en Polygon"; desarrollar una "web2-web3 DAO"; desarrollar "Desafío 333dotX Mordidas", etc.
 
 **Mis fracciones del día** serán: por la  mañana (de 6 a 14 h), tarde (de 14 a 22 h) y noche (de 22 a 6 h).   
 **Tengo en cuenta:**  
