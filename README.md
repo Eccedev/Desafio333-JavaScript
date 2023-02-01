@@ -4,30 +4,33 @@
 - **"Reto 333dot3 Ethereum y el entorno web3":** idem que el anterior😃.  
 - **"Reto 333dot3 Proyectos web2-web3":** "DNS en Polygon"; desarrollar una "web2-web3 DAO"; desarrollar "Desafío 333dotX Mordidas", etc.
 
-**Mis fracciones del día** serán: por la  mañana (de 6 a 14 h), tarde (de 14 a 22 h) y noche (de 22 a 6 h).   
-**Tengo en cuenta:**  
+**Mis fracciones del día** serán: por la  mañana (de 6 a 14 h), tarde (de 14 a 22 h) y noche (de 22 a 6 h). 
+  
+  **Tengo en cuenta:**  
 - Quiero superar 1 Desafío compuesto de 3 Retos 333dot3 porque están relacionados entre sí y creo que es lo mejor para lograr mi Gran Meta.
 - A pesar de encontrarse los 3 Retos relacionados entre sí, cada Reto debe lograr su objetivo de dar 333 mordidas como mínimo a su destreza a mejorar, o proyectos a desarrollar.  
 - Como mínimo 33 minutos de dedicación a cada habilidad o proyecto para lograr 1 mordida y alcanzar las 333 mordidas en distintas fracciones de diferentes días. De esta forma cumplimos con La Gran Meta 👀 de mejora provechosa y acumulativa en estado flow😎, logrando objetivos alcanzables🚀. Pero quizás estoy yendo por la vía ¿menos tortuosa? y tenga que ser flexible y realizar ajustes en mi desafío. Vamos hablando y aclarando ideas👇!!!  
 - LLevaré un control de mordidas y tiempo dedicado-acumulado en cada Reto y en el Desafío general.
-
-## Desafío 333dotX Mordidas  
+  
+    
+    
+# Qué es un Desafío 333dotX Mordidas  
 
 ### Algunas normas. Sé flexible y adáptalas a ti si te unes.  
 **La Gran Meta** 👀 es sentirte en flow durante el recorrido y ser una mejor versión de ti mismo al lograr tus objetivos, es decir, un **sistema de tiempo provechoso dedicado y acumulativo basado en objetivos alcanzables**. ¡Esta idea es la más importante!  
 
-**Desafío 333dotX mordidas** está pensado para conseguir dar al menos 333 **mordidas de fracciones** de cada día aprovechado entre las **destrezas** y **proyectos** seleccionados por uno mismo. Sé realista y pon tus objetivos "alcanzables". No dudes en readaptar tus objetivos y hoja de ruta si lo crees necesario. Y si necesitas apoyo no dudes y pídelo.  
+**Desafío 333dotX Mordidas** está pensado para conseguir dar al menos 333 **mordidas de fracciones** de cada día aprovechado entre las **destrezas** y **proyectos** seleccionados por uno mismo. Sé realista y pon tus objetivos "alcanzables". No dudes en aplicar flexi-normas como readaptar tu desafío, tu objetivo y hoja de ruta si lo crees necesario. Y si necesitas apoyo no dudes y pídelo.  
   
 #### ¿Cómo conseguir mordidas?  
-- Caso 1: En un solo "Desafío 333dot**1**" en el que se incluya una o varias destreza/s y proyecto/s que guarden relación entre sí pero que su objetivo es conseguir una sola vez dar 333 mordidas  
-- Caso 2: En un "Desafío 333dot**X**" en el que dentro del desafío hay varias destreza/s y proyecto/s llamados "Retos" pues, a pesar de estar relacionados entre sí, cada uno debe conseguir 333 mordidas de forma independiente. Según el número de Retos se denominará 333dot2 para 2 retos (acumulará 666 mordidas), 333dot3 para 3 (acumulará 999), etc.  
+- Caso 1: En un solo "Desafío 333dot**1**" (333 * 1) en el que se incluya una o varias destreza/s y proyecto/s que guarden relación entre sí pero que su objetivo es conseguir una sola vez dar 333 mordidas.  
+- Caso 2: En un "Desafío 333dot**X**" (333 * x; x = número de retos) en el que dentro del desafío hay varias destreza/s y proyecto/s llamados "Retos" pues, a pesar de estar relacionados entre sí, cada uno debe conseguir 333 mordidas de forma independiente. Según el número de Retos se denominará 333dot2 para 2 retos (acumulará 666 mordidas), 333dot3 para 3 (acumulará 999), etc.  
 
 Ejemplos: En Desarrollo Web tus desafíos podrían ser:  
 - (Caso 1) "Desafío 333dot**1** HTML"  = conseguir 333 mordidas sumando mordidas como una sola destreza llamada HTML, por ello es **dot1**.  
 - (Caso 1) "Desafío 333dot**1** Frontend" = conseguir 333 mordidas sumando mordidas desde 2 destrezas diferentes relacionadas, en este caso podría ser HTML Y CSS, por ello es también **dot1**.  
-- (Caso 2) "Desafío 333dot**3** HTML-CSS-PROYECT" = Ahora ese **dot3** nos indica que dentro de ese desafío hay 3 **Retos** relacionados entre sí (por ejemplo HTML, CSS Y UN PROYECTO WEB) PERO cada Reto debe conseguir dar sus 333 mordidas de forma independiente. Al final en **dot3** se darán 333 * 3 = 999 mordidas.  
+- (Caso 2) "Desafío 333dot**3** HTML-CSS-PROYECTO" = Ahora ese **dot3** nos indica que dentro de ese desafío hay 3 **Retos** relacionados entre sí (por ejemplo HTML, CSS Y UN PROYECTO WEB) PERO cada Reto debe conseguir dar sus 333 mordidas de forma independiente. Al final en **dot3** se darán 333 * 3 = 999 mordidas.  
 ¿Cuál es más efectivo? Lo decides tú pues son tus mordidas😬 y tu Desafío. 
-Nota: si alcanzas muy temprano tus 333 mordidas podrías sentirte algo decepcionado pero se soluciona añadiendo una segunda ronda o más a ese mismo desafío...hasta que creas que debes de cambiar a otro diferente. Ponte tú los límites.  
+Nota: si alcanzas muy temprano tus 333 mordidas podrías sentirte algo decepcionado pero se soluciona añadiendo una segunda ronda o más a ese mismo desafío...hasta que creas que debes de cambiar a otro diferente. Ponte tú los límites, adapta el desafío si es necesario e informa siempre dichas adaptaciones.  
 
 #### ¿Mordidas y Fracciones?  
 Cada día se divide en 3 posibles fracciones: mañana, tarde y noche.  
@@ -40,20 +43,23 @@ durante la mañana 2 h y 10' (= 1 ),
 durante  la tarde 35' (= 1 mordida),  
 durante  la noche duermo😴.  
 Total 1+1= 2 mordidas para esa habilidad.  
-Lo anoto para hacer el seguimiento: **"Desafío 333dot1 HTML" Día 1 = 2 mordidas / 2 h 45'. Acumulado 2 mordidas / 2 h 45'.**  
+Lo anoto para hacer el seguimiento: **"1/1/2023 - Desafío 333dot1 HTML" = 2 mordidas / 2 h 45'. Acumulado 2 mordidas / 2 h 45'.**  
 
-**Ejemplo 2**: El segundo día dedico al mismo desafío:  
+**Ejemplo 2**: La segunda vez (otro día diferente) que dedico al "Desafío 333dot1 HTML":  
 durante la mañana 3 h y 40' (= 2 mordidas),  
 durante la tarde tarde viajo👩‍🚀,  
 durante la noche 3 h 50' (= 2 mordidas ⛔ojo ).  
 Total 2+2 (📢se sobrepasa el límite máximo diario) = 3 mordidas para ese día en esa habilidad.  
-Lo anoto: **"Desafío 333dot1 HTML" Día 2 = 3 mordidas / 7 h 30'. Acumulado 5 mordidas / 10 h 15'.**  
+Lo anoto para hacer el seguimiento: **"4/1/2023 - Desafío 333dot1 HTML" = 3 mordidas / 7 h 30'. Acumulado 5 mordidas / 10 h 15'.**  
+  
+Mira mi ejemplo real de [Github](https://github.com/Eccedev/Desafio-333dot3-JS-ETH-PROJ/blob/main/Reto%20333dot3%20JS%20y%20su%20entorno.md): cada día que muerdo intento anotar fecha, lugar, mordida, sensaciones y link's. Pero como soy flexible iré añadiendo o quitando items según crea necesario...es mi Desafío!
   
   
-El número de destrezas y proyectos máximos relacionados entre sí a desarrollar a la misma vez en un **Desafío 333dot1 Mordidas** se aconseja que no supere ¿ 3 ?. Piensa que si son más de una destreza o proyecto dentro de un mismo desafío **dot1**, entonces cada una va sumando y añadiendo mordidas al cómputo total de 333 y podría sobrepasarse esa cantidad muy rápidamente.  
-La otra opción es en un Desafío 333dot**X** separar en distintos Retos las destrezas y los proyectos relacionados entre sí para que cada uno logre sus 333 mordidas de forma independiente. Deberías contemplar la idea de si más es menos en ciertos casos. ¿Mejor tortuga que liebre en algunos casos? Tú mandas, tú decides.  
+Si sólo muerdes una destreza o projecto el Desafío 333**dot1** es el correcto.
+Pero el número de destrezas y proyectos máximos relacionados entre sí a desarrollar a la misma vez en un **Desafío 333dot1 Mordidas** (333 * 1 = 333 mordidas) se aconseja que no supere ¿ 1, 2 o 3 ?. Piensa que si son más de una destreza o proyecto dentro de un mismo desafío **dot1**, entonces cada una va sumando y añadiendo mordidas al cómputo total de 333 y podría sobrepasarse esa cantidad muy rápidamente. Deberías contemplar la idea de si más es menos en ciertas situaciones.  
+La otra opción es realizar un Desafío 333dot**2** (333 * 2 = 666 mordidas en total) o mayor, separando en distintos "Retos" las destrezas y los proyectos relacionados entre sí dentro del mismo Desafío para que cada uno logre sus 333 mordidas de forma independiente. ¿Mejor tortuga que liebre en algunos casos? Tú mandas, tú decides.  
    
-Si lees bien La Gran Meta ☝️ debes evitar quemarte o perder el objetivo en el intento.
+Si lees bien La Gran Meta ☝️ debes evitar quemarte o perder el objetivo en el intento y disfrutar del Flow.  
 
 ### ¿Destrezas, habilidades, aprendizajes?  
 Las habilidades = destrezas o aprendizajes elegidos por ti a mejorar. Puedes hacer un seguimiento de tu evolución en tu hoja de ruta anotando tus logros diarios en un papel, github, discord o cualquier otro medio.
@@ -72,7 +78,7 @@ Es que casi todo encajaba y se aligeraba cuando se basaba en 3 y pensando en la 
 
 Es posible que para conseguir tus mordidas vayas mejorando otras habilidades. Un ejemplo puede ser morder un "Desafío 333dot1 HTML" siguiendo un curso en inglés que usa Github para depositar repositorios de tus web...ahí tienes un ejemplo claro , mejorarás en inglés y Github sin apenas darte cuenta. ¡Anótalo si te ha aportado valor!  
   
-### ¿Por qué 33 minutos?¿Por qué 3 fracciones por día?ç¿por qué y por qué todo esto?
+### ¿Por qué 33 minutos?¿Por qué 3 fracciones por día?¿por qué y por qué todo esto?
 Todo tiene un porque en lo que lees en estas líneas pero es que este README se está alargando demasiado😅.  
 
 ### Tributo.  
