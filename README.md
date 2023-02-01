@@ -29,6 +29,7 @@ Ejemplos: En Desarrollo Web tus desafíos podrían ser:
 - (Caso 1) "Desafío 333dot**1** HTML"  = conseguir 333 mordidas sumando mordidas como una sola destreza llamada HTML, por ello es **dot1**.  
 - (Caso 1) "Desafío 333dot**1** Frontend" = conseguir 333 mordidas sumando mordidas desde 2 destrezas diferentes relacionadas, en este caso podría ser HTML Y CSS, por ello es también **dot1**.  
 - (Caso 2) "Desafío 333dot**3** HTML-CSS-PROYECTO" = Ahora ese **dot3** nos indica que dentro de ese desafío hay 3 **Retos** relacionados entre sí (por ejemplo HTML, CSS Y UN PROYECTO WEB) PERO cada Reto debe conseguir dar sus 333 mordidas de forma independiente. Al final en **dot3** se darán 333 * 3 = 999 mordidas.  
+
 ¿Cuál es más efectivo? Lo decides tú pues son tus mordidas😬 y tu Desafío. 
 Nota: si alcanzas muy temprano tus 333 mordidas podrías sentirte algo decepcionado pero se soluciona añadiendo una segunda ronda o más a ese mismo desafío...hasta que creas que debes de cambiar a otro diferente. Ponte tú los límites, adapta el desafío si es necesario e informa siempre dichas adaptaciones.  
 
