@@ -55,9 +55,9 @@ Lo anoto para hacer el seguimiento: **"4/1/2023 - Desafío 333dot1 HTML" = 3 mor
 Mira mi ejemplo real de [Github](https://github.com/Eccedev/Desafio-333dot3-JS-ETH-PROJ/blob/main/Reto%20333dot3%20JS%20y%20su%20entorno.md): cada día que muerdo intento anotar fecha, lugar, mordida, sensaciones y link's. Pero como soy flexible iré añadiendo o quitando items según crea necesario...es mi Desafío!
   
   
-Si sólo muerdes una destreza o projecto el Desafío 333**dot1** es el correcto.
-Pero el número de destrezas y proyectos máximos relacionados entre sí a desarrollar a la misma vez en un **Desafío 333dot1 Mordidas** (333 * 1 = 333 mordidas) se aconseja que no supere ¿ 1, 2 o 3 ?. Piensa que si son más de una destreza o proyecto dentro de un mismo desafío **dot1**, entonces cada una va sumando y añadiendo mordidas al cómputo total de 333 y podría sobrepasarse esa cantidad muy rápidamente. Deberías contemplar la idea de si más es menos en ciertas situaciones.  
-La otra opción es realizar un Desafío 333dot**2** (333 * 2 = 666 mordidas en total) o mayor, separando en distintos "Retos" las destrezas y los proyectos relacionados entre sí dentro del mismo Desafío para que cada uno logre sus 333 mordidas de forma independiente. ¿Mejor tortuga que liebre en algunos casos? Tú mandas, tú decides.  
+- Si sólo muerdes una destreza o projecto el Desafío 333**dot1** es el correcto.  
+- Pero el número de destrezas y proyectos máximos relacionados entre sí a desarrollar a la misma vez en un **Desafío 333dot1 Mordidas** (333 * 1 = 333 mordidas) se aconseja que no supere ¿ 1, 2 o 3 ?. Piensa que si son más de una destreza o proyecto dentro de un mismo desafío **dot1**, entonces cada una va sumando y añadiendo mordidas al cómputo total de 333 y podría sobrepasarse esa cantidad muy rápidamente. Deberías contemplar la idea de si más es menos en ciertas situaciones.  
+- La otra opción es realizar un Desafío 333dot**2** (333 * 2 = 666 mordidas en total) o mayor, separando en distintos "Retos" las destrezas y los proyectos relacionados entre sí dentro del mismo Desafío para que cada uno logre sus 333 mordidas de forma independiente. ¿Mejor tortuga que liebre en algunos casos? Tú mandas, tú decides.  
    
 Si lees bien La Gran Meta ☝️ debes evitar quemarte o perder el objetivo en el intento y disfrutar del Flow.  
 
