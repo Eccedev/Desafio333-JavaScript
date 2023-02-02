@@ -1,9 +1,14 @@
 # Progreso y anotaciones  **"Reto 333dot3 JS y su entorno"**  
 Este Reto 333**dot3** nos avisa que se incluye en un Desafío 333**dot3**, es decir, 3 retos para lograr un [desafío previamente definido](https://github.com/Eccedev/Desafio-333dot3-JS-ETH-PROJ).  
 #### Tributo a los espacios que me ayudan a lograr mi Desafío y mis Retos.  
-En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Buildspace](https://buildspace.so/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Learnweb3](https://learnweb3.io/) - [Openbootcamp](https://open-bootcamp.com/).  
+En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Buildspace](https://buildspace.so/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Learnweb3](https://learnweb3.io/) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).
 #  
-  
+### Fecha 2/02/2023 = 1 mordida - 3h 10'// Acumulado = 3 mordidas - 6h 40'.  
+Lugar: [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals) y [Freecodecamp](https://www.freecodecamp.org/learn) (Basic JavaScript).   
+Mordida: Bucles for y while.  
+Sensaciones: Hoy muy lento nuevamente pero si no lo veo claro no quiero pasar a la siguiente prueba. Aclarando poco a poco cómo se codifica en js .   
+Links:  
+#
 ### Fecha 1/02/2023 = 1 mordida - 1h 40'// Acumulado = 2 mordidas - 3h 30'.  
 Lugar: [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals) y [Freecodecamp](https://www.freecodecamp.org/learn) (Basic JavaScript).   
 Mordida: Condicionales y bucles.  
