@@ -2,7 +2,14 @@
 Este Reto 333**dot3** nos avisa que se incluye en un Desafío 333**dot3**, es decir, 3 retos para lograr un [desafío previamente definido](https://github.com/Eccedev/Desafio-333dot3-JS-ETH-PROJ).  
 #### Tributo a los espacios que me ayudan a lograr mi Desafío y mis Retos.  
 En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Buildspace](https://buildspace.so/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Learnweb3](https://learnweb3.io/) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).
-#  
+# 
+### Fecha 4/02/2023 = 3 mordidas - 5h 30'// Acumulado = 7 mordidas - 15h 10'.  
+nota: > de 3h33'= +2 mordidas + otros >33' = +1 mordida.  
+Lugar: [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals) y [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript).    
+Mordida: Resoluciones de problemas prácticos: muchos loops y condicionales con números, el uso pares, búsqueda del mayor, localizar + y -, manipular strings, arrays.  
+Sensaciones: La impresión es de ir muy lento pero cuando obtienes el resultado esperado en el ejercicio propuesto te motivas.    
+Links: Hoy he descubierto muy buenas ayudas en inglés, español y otros idiomas: [Eloquent Javascript](https://eloquentjavascript.net/) y [The Modern JavaScript Tutorial](https://javascript.info/)
+#
 ### Fecha 3/02/2023 = 1 mordida - 3h 00'// Acumulado = 4 mordidas - 9h 40'.  
 Lugar: [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals).   
 Mordida: Resoluciones de problemas prácticos utilizando lo estudiado.  
