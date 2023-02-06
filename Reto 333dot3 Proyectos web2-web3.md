@@ -6,5 +6,5 @@ En orden alfabético, todos valiosos: [Alchemy University](https://university.al
 ### Fecha 6/02/2023 = 1 mordida - 2h 00'// Acumulado = 1 mordida - 2h 00'.    
 Lugar: [Buildspace](https://buildspace.so/p/build-polygon-ens).    
 Mordida: finalizado el getting started y comenzando el módulo CREATE DNS CONTRACT.    
-Sensaciones: Buenas aunque me demoré por un problema de carga desde cmd de dependancias de Hardhat pero resuelto con la ayuda de la comunidad de discord y en búsquedas google. Ya he realizado con Buildspace anteriormente otro proyecto de creación de una DAO con contrato nft erc-1155 para acceso y contrato de token erc-20 para gobernanza para propuestas y votaciones por lo que este tipo de trabas inesperadas se resuelven siempre de alguna forma.      
+Sensaciones: Buenas aunque me demoré por un problema de carga desde cmd de dependancias de Hardhat pero resuelto con la ayuda de la comunidad de discord y en búsquedas google. Ya he realizado con Buildspace anteriormente otro proyecto de creación de una [DAO Dapp](https://github.com/Eccedev/MostRareDAO-Dapp) con contrato nft erc-1155 para acceso y contrato de token erc-20 para gobernanza para propuestas y votaciones por lo que este tipo de trabas inesperadas se resuelven siempre de alguna forma.      
 Links: 
