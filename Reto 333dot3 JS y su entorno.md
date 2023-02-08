@@ -1,7 +1,13 @@
 # Progreso y anotaciones  **"Reto 333dot3 JS y su entorno"**  
-Este Reto 333**dot3** nos avisa que se incluye en un Desafío 333**dot3**, es decir, 3 retos para lograr un [desafío previamente definido](https://github.com/Eccedev/Desafio-333dot3-JS-ETH-PROJ).  
+**Este Reto 333dot3 nos avisa que se incluye en un Desafío 333dot3, es decir, 3 retos para lograr un [desafío previamente definido](https://github.com/Eccedev/Desafio-333dot3-JS-ETH-PROJ).**  
 #### Tributo a los espacios que me ayudan a lograr mi Desafío y mis Retos.  
-En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Buildspace](https://buildspace.so/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Learnweb3](https://learnweb3.io/) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).
+**En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Buildspace](https://buildspace.so/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Learnweb3](https://learnweb3.io/) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**
+# 
+### Fecha 8/02/2023 = 3 mordidas - 4h 30'// Acumulado = 10 mordidas - 19h 40'.  
+nota: continúo en estos inicios el itinerario de Alchemy University principalmente para enlazar javascript con Ethereum-Solidity y web3.  
+Lugar: [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals).    
+Mordida: Resolución de ejercicios prácticos.   
+Sensaciones: aún por la parte "basics" de Alchemy. Esta semana espero poder aumentar horas pero también quiero continuar el proyecto 'DNS en Polygon' que ya comencé hace dos días y dedicar algún tiempo a la idea de Desafío 333dotX Mordidas para proyectarlo en alguna red social.
 # 
 ### Fecha 4/02/2023 = 3 mordidas - 5h 30'// Acumulado = 7 mordidas - 15h 10'.  
 nota: > de 3h33'= +2 mordidas + otros >33' = +1 mordida.  
@@ -30,6 +36,7 @@ Sensaciones: Hoy muy lento, un poco frustrante cuando no funciona tu código que
 Links:
 #
 ### Fecha 31/01/2023 = 1 mordida - 1h 50'// Acumulado = 1 mordida - 1h 50'.  
+nota: Estoy siguiendo en estos inicios el itinerario de Alchemy University para enlazar javascript con Ethereum-Solidity y web3, pero cuando finalice la parte de JS con ellos continuaré con Openbootcamp y Freecodecamp para seguir evolucionando en JS pues ya tengo una parte de JS realizada en ambos. 
 Lugar: [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals).  
 Mordida: Explicaciones generales de JS, vista general de funciones, operadores y condicionales.  
 Sensaciones: Tengo nociones muy básicas de JS pero nunca he picado código y se nota pues cada explicación lleva una práctica y obliga a trabajar. Buenas sensaciones.  
