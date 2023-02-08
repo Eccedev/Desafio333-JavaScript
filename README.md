@@ -9,7 +9,7 @@
   **Tengo en cuenta:**  
 - Quiero superar 1 Desafío compuesto de 3 Retos 333dot3 porque están relacionados entre sí y creo que es lo mejor para lograr mi Gran Meta.
 - A pesar de encontrarse los 3 Retos relacionados entre sí, cada Reto debe lograr su objetivo de dar 333 mordidas como mínimo a su destreza a mejorar, o proyectos a desarrollar.  
-- Como mínimo 33 minutos de dedicación a cada habilidad o proyecto para lograr 1 mordida y alcanzar las 333 mordidas en distintas fracciones de diferentes días. De esta forma cumplimos con La Gran Meta 👀 de mejora provechosa y acumulativa en estado flow😎, logrando objetivos alcanzables🚀. Pero quizás estoy yendo por la vía ¿menos tortuosa? y tenga que ser flexible y realizar ajustes en mi desafío. Vamos hablando y aclarando ideas👇!!!  
+- Como mínimo 33 minutos de dedicación a cada habilidad o proyecto para lograr 1 mordida y alcanzar las 333 mordidas en distintas fracciones de diferentes días. De esta forma cumplimos con La Gran Meta 👀 de desarrollo y mejora provechosa y acumulativa en estado de flow😎, logrando objetivos alcanzables🚀. Pero quizás estoy yendo por la vía ¿menos tortuosa? y tenga que ser flexible y realizar ajustes en mi desafío. Vamos hablando y aclarando ideas👇!!!  
 - LLevaré un control de mordidas y tiempo dedicado-acumulado en cada Reto y en el Desafío general.  
 # 
     
@@ -17,9 +17,13 @@
 # Qué es un Desafío 333dotX Mordidas  
 
 ### Algunas normas. Sé flexible y adáptalas a ti si te unes.  
-**La Gran Meta** 👀 es sentirte en flow durante el recorrido de mejora, aprendizaje o desarrollo y ser una mejor versión de ti mismo al lograr tus objetivos, es decir, un **sistema de tiempo provechoso dedicado y acumulativo basado en objetivos alcanzables**. ¡Esta idea es la más importante!  
+**La Gran Meta** 👀 es sentirte en flow😎 durante el recorrido de mejora, aprendizaje o desarrollo y ser una mejor versión de ti mismo al lograr tus objetivos, es decir, un **sistema de tiempo provechoso dedicado y acumulativo basado en objetivos alcanzables**. ¡Esta idea es la más importante!  
 
 **Desafío 333dotX Mordidas** está pensado para conseguir dar al menos 333 **mordidas de fracciones** de cada día aprovechado entre las **destrezas** y **proyectos** seleccionados por uno mismo. Sé realista y pon tus objetivos "alcanzables". No dudes en aplicar flexi-normas como readaptar tu desafío, tu objetivo y hoja de ruta si lo crees necesario. Y si necesitas apoyo no dudes y pídelo.  
+  
+### Es de bien nacidos ser agradecidos.  
+Si te gusta la idea de los Desafíos 333dotX Mordidas menciona https://github.com/Eccedev pues es su [lugar de nacimiento](https://github.com/Eccedev). Cualquiera puede ayudar a mejorar el sistema del Desafío 333dotX. Solo necesita desafiarse a sí mismo frente al universo o con amig@s y contarlo. Esto puede ser una cadena increíble de acontecimientos maravillosos a pesar que estamos mordiendo cosas 😬 😃.   
+  
   
 #### ¿Cómo conseguir mordidas?  
 - Caso 1: En un solo "Desafío 333dot**1**" (333 * 1) en el que se incluya una o varias destreza/s y proyecto/s que guarden relación entre sí pero que su objetivo es conseguir una sola vez dar 333 mordidas.  
