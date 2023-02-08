@@ -20,7 +20,7 @@
 ## ¿Qué es un [Desafío 333dotX Mordidas](https://github.com/Eccedev/Desafio-333dotX-Mordidas)?  
 Un Desafío🚀 mordiendo destrezas y desarrollos de proyectos e ideas para lograr La Gran Meta👀 en estado de flow😎.  
   
-Tu familia, amig@s y conocid@s estarán orgullos@s por tus destrezas, experiencia y desarrollos de proyectos logrados. Y ahora lo mejor ¡No te pongas nervios@! Pero el mundo pondrá sus ojos en ti😃 si lo publicas y mencionas.  
+Tu familia, amig@s y conocid@s estarán orgullos@s por tus destrezas, experiencia y desarrollos de proyectos logrados. Y ahora lo mejor ¡No te pongas nervios@! Pero el mundo pondrá sus ojos en ti😃 si lo publicas y mencionas a [Desafío 333dotX Mordidas](https://github.com/Eccedev/Desafio-333dotX-Mordidas).  
   
 Nota: Se puede desafiar cualquier cosa que desees morder jaja.
 
