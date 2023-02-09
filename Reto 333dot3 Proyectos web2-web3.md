@@ -5,7 +5,7 @@ En orden alfabético, todos valiosos: [Alchemy University](https://university.al
 # 
 ### Fecha 9/02/2023 = 3 mordida - 5h 45'// Acumulado = 4 mordidas - 7h 45'.    
 Lugar: [web.guada.app](https://web.guada.app/).    
-Mordida: definiendo mejor el sistema 'desafío 333dot', finalizada y publicada la web-app informativa de 'Desafío 333dot Mordidas' en una plataforma no-code. La idea futura será una aplicación donde se puedan incluir datos según el desafío propuesto por cualquier persona para obtener una síntesis del sistema 'desafío 333dot' adaptado a sus elecciones.      
+Mordida: definiendo mejor el sistema 'desafío 333dot', finalizada y publicada la web-app informativa de 'Desafío 333dot Mordidas' en una plataforma no-code. La idea futura será una aplicación donde se puedan incluir datos según el desafío propuesto por cualquier persona para obtener una síntesis del sistema 'desafío 333dot' adaptado a sus elecciones. Comienzo a envolver todo este proyecto con el hashtag **#midesafio333dot**.  
 Sensaciones: sencillo de llevar a cabo pero no permite nada de código, limita en opciones aunque cumple lo básico para muchos proyectos.  
 link: https://desafio333dot.ltn.net/  
 # 
