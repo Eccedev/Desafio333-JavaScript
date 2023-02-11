@@ -3,6 +3,12 @@
 #### Tributo a los espacios que me ayudan a lograr mi Desafío y mis Retos.  
 **En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Buildspace](https://buildspace.so/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Learnweb3](https://learnweb3.io/) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**
 # 
+### Fecha 11/02/2023 = 1 mordidas - 1h 10'// Acumulado = 11 mordidas - 20h 50'.  
+nota: continúo en estos inicios el itinerario de Alchemy University principalmente para enlazar javascript con Ethereum-Solidity y web3.  
+Lugar: [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals).    
+Mordida: Resolución de ejercicios prácticos.   
+Sensaciones: aún por la parte "basics" de Alchemy. Esta semana espero poder aumentar horas pero también quiero continuar el proyecto 'DNS en Polygon' que ya comencé hace dos días y dedicar algún tiempo a la idea de Desafío 333dotX Mordidas para proyectarlo en alguna red social.
+# 
 ### Fecha 8/02/2023 = 3 mordidas - 4h 30'// Acumulado = 10 mordidas - 19h 40'.  
 nota: continúo en estos inicios el itinerario de Alchemy University principalmente para enlazar javascript con Ethereum-Solidity y web3.  
 Lugar: [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals).    
