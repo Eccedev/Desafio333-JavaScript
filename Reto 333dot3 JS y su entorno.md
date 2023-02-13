@@ -5,15 +5,16 @@
 # 
 ### Fecha 11/02/2023 = 1 mordidas - 1h 10'// Acumulado = 11 mordidas - 20h 50'.  
 nota: continúo en estos inicios el itinerario de Alchemy University principalmente para enlazar javascript con Ethereum-Solidity y web3.  
-Lugar: [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals).    
-Mordida: Resolución de ejercicios prácticos.   
-Sensaciones: aún por la parte "basics" de Alchemy. Esta semana espero poder aumentar horas pero también quiero continuar el proyecto 'DNS en Polygon' que ya comencé hace dos días y dedicar algún tiempo a la idea de Desafío 333dotX Mordidas para proyectarlo en alguna red social.
+Lugar: [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals).  
+Mordida: Resolución de ejercicios prácticos sobre operadores lógicos y excepciones-errores.     
+Sensaciones: Avanzando en el siguiente tramo de fundamentales JS en Intermediate JavaScript Features. Voy a tener que redimensionar los esfuerzos a los proyectos para no restar a este que lo quiero morder con ganas: intentaré morder a Dns en Polygon un poco pero no pararlo y al proyecto dasafío 333dotx aparcarlo por ahora.
+
 # 
 ### Fecha 8/02/2023 = 3 mordidas - 4h 30'// Acumulado = 10 mordidas - 19h 40'.  
 nota: continúo en estos inicios el itinerario de Alchemy University principalmente para enlazar javascript con Ethereum-Solidity y web3.  
 Lugar: [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals).    
-Mordida: Resolución de ejercicios prácticos.   
-Sensaciones: aún por la parte "basics" de Alchemy. Esta semana espero poder aumentar horas pero también quiero continuar el proyecto 'DNS en Polygon' que ya comencé hace dos días y dedicar algún tiempo a la idea de Desafío 333dotX Mordidas para proyectarlo en alguna red social.
+Mordida: Resolución de ejercicios prácticos.    
+Sensaciones: aún por la parte "basics" de Alchemy. Esta semana espero poder aumentar horas pero también quiero continuar el proyecto 'DNS en Polygon' que ya comencé hace dos días y dedicar algún tiempo a la idea de Desafío 333dotX Mordidas para proyectarlo en alguna red social.  
 # 
 ### Fecha 4/02/2023 = 3 mordidas - 5h 30'// Acumulado = 7 mordidas - 15h 10'.  
 nota: > de 3h33'= +2 mordidas + otros >33' = +1 mordida.  
