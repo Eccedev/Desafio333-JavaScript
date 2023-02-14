@@ -4,6 +4,12 @@ Este Reto 333**dot3** nos avisa que se incluye en un Desafío 333**dot3**, es de
 En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Buildspace](https://buildspace.so/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Learnweb3](https://learnweb3.io/) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).  
 Nota: Este Reto trata varios proyectos mientras se desarrolla el Desafío. Aunque todos se incluyen aquí los diferenciaré con el item PROYECTO: .  
 # 
+### Fecha 14/02/2023 = 1 mordida - 1h 00'// Acumulado = 8 mordida - 19h 15'.    
+-PROYECTO: **DNS en Polygon.**    
+-Lugar: [Buildspace](https://buildspace.so/p/build-polygon-ens).    
+-Mordida: poner en funcionamiento una red Ethereum local, ejecutar un contrato inteligente básico e iniciar el módulo de configurar dominios, resolutores y registros.    
+-Sensaciones: buenas hasta ahora y, aunque todo va encaminado con código ya propuesto, hay dudas cómo trabajar con harthat. Parece que hace todo más fácil al preestablecerlo. Estamos empezando y seguro que irá quedando todo más claro.   
+# 
 ### Fecha 10/02/2023 = 3 mordidas - 10h 30'// Acumulado = 7 mordidas - 18h 15'.  
 -PROYECTO: **desarrollar "Desafío 333dotX Mordidas**.    
 -Lugar: [Plataforma Canva](https://www.canva.com/).      
