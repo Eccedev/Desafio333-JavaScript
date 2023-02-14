@@ -3,12 +3,18 @@
 #### Tributo a los espacios que me ayudan a lograr mi Desafío y mis Retos.  
 **En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Buildspace](https://buildspace.so/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Learnweb3](https://learnweb3.io/) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**
 # 
+### Fecha 14/02/2023 = 2 mordidas - 3h 50'// Acumulado = 13 mordidas - 24h 40'.  
+nota: continúo en estos inicios el itinerario de Alchemy University principalmente para enlazar javascript con Ethereum-Solidity y web3.  
+Lugar: [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals).  
+Mordida: Resolución de ejercicios prácticos de string to number y viceversa, objeto  a JSON y viceversa, ECMASCRIPT y transpiladores como labeljs, desestructuración para desempaquetar un objeto y la palabra clave this-call y apply-.     
+Sensaciones: Cuando aparecen muchos conceptos e ideas nuevas parece que se pone cuesta arriba todo pero va encaminado. Evitando desánimo por ahora.
+
+# 
 ### Fecha 11/02/2023 = 1 mordidas - 1h 10'// Acumulado = 11 mordidas - 20h 50'.  
 nota: continúo en estos inicios el itinerario de Alchemy University principalmente para enlazar javascript con Ethereum-Solidity y web3.  
 Lugar: [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals).  
 Mordida: Resolución de ejercicios prácticos sobre operadores lógicos y excepciones-errores.     
 Sensaciones: Avanzando en el siguiente tramo de fundamentales JS en Intermediate JavaScript Features. Voy a tener que redimensionar los esfuerzos a los proyectos para no restar a este que lo quiero morder con ganas: intentaré morder a Dns en Polygon un poco pero no pararlo y al proyecto dasafío 333dotx aparcarlo por ahora.
-
 # 
 ### Fecha 8/02/2023 = 3 mordidas - 4h 30'// Acumulado = 10 mordidas - 19h 40'.  
 nota: continúo en estos inicios el itinerario de Alchemy University principalmente para enlazar javascript con Ethereum-Solidity y web3.  
