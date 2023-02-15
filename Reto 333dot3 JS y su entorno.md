@@ -3,12 +3,18 @@
 #### Tributo a los espacios que me ayudan a lograr mi Desafío y mis Retos.  
 **En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Buildspace](https://buildspace.so/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Learnweb3](https://learnweb3.io/) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**
 # 
+### Fecha 15/02/2023 = 3 mordidas - 4h 20'// Acumulado = 16 mordidas - 29h 00'.  
+nota: A pesar que continúo en estos inicios el itinerario de Alchemy University principalmente para enlazar javascript con Ethereum-Solidity y web3 he tenido que acudir a la web [lenguajejs](https://lenguajejs.com/javascript/oop/que-es/) para aclarar y comprender lo referente a clases, prototipos, etc.  
+Lugar: [lenguajejs](https://lenguajejs.com/javascript/oop/que-es/) y [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals).  
+Mordida: Aprender y resolver ejercicios prácticos referente a clases, instancias, prototipos, métodos para manipularlos -súper, constructor y la palabra clave this y new.     
+Sensaciones: Un poco duro, idea algo abstracta y con una sintaxis enrevesada y muchas cosas nuevas o sin amarrar bien del todo.  
+link: [lenguajejs](https://lenguajejs.com/javascript/oop/que-es/)
+# 
 ### Fecha 14/02/2023 = 2 mordidas - 3h 50'// Acumulado = 13 mordidas - 24h 40'.  
 nota: continúo en estos inicios el itinerario de Alchemy University principalmente para enlazar javascript con Ethereum-Solidity y web3.  
 Lugar: [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals).  
 Mordida: Resolución de ejercicios prácticos de string to number y viceversa, objeto  a JSON y viceversa, ECMASCRIPT y transpiladores como labeljs, desestructuración para desempaquetar un objeto y la palabra clave this-call y apply-.     
-Sensaciones: Cuando aparecen muchos conceptos e ideas nuevas parece que se pone cuesta arriba todo pero va encaminado. Evitando desánimo por ahora.
-
+Sensaciones: Cuando aparecen muchos conceptos e ideas nuevas parece que se pone cuesta arriba todo pero va encaminado. Evitando desánimo por ahora.  
 # 
 ### Fecha 11/02/2023 = 1 mordidas - 1h 10'// Acumulado = 11 mordidas - 20h 50'.  
 nota: continúo en estos inicios el itinerario de Alchemy University principalmente para enlazar javascript con Ethereum-Solidity y web3.  
