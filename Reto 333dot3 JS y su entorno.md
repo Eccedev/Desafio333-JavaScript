@@ -3,6 +3,13 @@
 #### Tributo a los espacios que me ayudan a lograr mi Desafío y mis Retos.  
 **En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Buildspace](https://buildspace.so/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Learnweb3](https://learnweb3.io/) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**
 # 
+### Fecha 16/02/2023 = 3 mordidas - 4h 10'// Acumulado = 19 mordidas - 33h 10'.  
+nota: Hoy he finalizado The Basics, la primera parte del Javascript Fundamentals (compuesto por tres partes). A partir de ahora entramos en Data Structures de Javascript. Como recordatorio este curso completo parte con Javascript (este reto) y continúa con otros 2 de mayor peso que son Ethereum Developer Bootcamp y Road to Web3, los cuales están incluidos en un reto aparte "Reto 333dot3 Ethereum y el entorno web3". En caso que el volumen de proyectos fuera muy grande me propondría incluir alguno/s en el "Reto 333dot3 Proyectos web2-web3" para equilibrar el peso del Desafío en general.  
+Lugar: [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals).  
+Mordida: Nuevamente aprender y resolver ejercicios prácticos referente a clases, instancias, herencias, prototipos, métodos para manipularlos -súper, constructor y la palabra clave this y new. También números binarios y su relación con los hexadecimales.     
+Sensaciones: sintaxis enrevesada pero entendiendo la lógica. Será cuestión de codificar día a día para fijar más.  
+link: [lenguajejs](https://lenguajejs.com/javascript/oop/que-es/)
+# 
 ### Fecha 15/02/2023 = 3 mordidas - 4h 20'// Acumulado = 16 mordidas - 29h 00'.  
 nota: A pesar que continúo en estos inicios el itinerario de Alchemy University principalmente para enlazar javascript con Ethereum-Solidity y web3 he tenido que acudir a la web [lenguajejs](https://lenguajejs.com/javascript/oop/que-es/) para aclarar y comprender lo referente a clases, prototipos, etc.  
 Lugar: [lenguajejs](https://lenguajejs.com/javascript/oop/que-es/) y [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals).  
