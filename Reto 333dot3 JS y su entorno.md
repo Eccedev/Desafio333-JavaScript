@@ -1,7 +1,7 @@
 # Progreso y anotaciones  **"Reto 333dot3 JavaScript y su entorno"**  
 **Este Reto 333dot3 nos avisa que se incluye en un Desafío 333dot3, es decir, 3 retos para lograr un [desafío previamente definido](https://github.com/Eccedev/Desafio-333dot3-JS-ETH-PROJ).**  
 #### Tributo a los espacios que me ayudan con JavaScript.  
-**En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Learnweb3](https://learnweb3.io/) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**
+**En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**
 # 
 ### Fecha 20/02/2023 = 3 mordidas - 6h 00'// Acumulado = 22 mordidas - 39h 10'.  
 nota: realizo una breve readaptación de ruta para consolidar más base.  
