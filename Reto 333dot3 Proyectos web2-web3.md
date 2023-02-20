@@ -4,6 +4,13 @@ Este Reto 333**dot3** nos avisa que se incluye en un Desafío 333**dot3**, es de
 En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Buildspace](https://buildspace.so/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Learnweb3](https://learnweb3.io/) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).  
 Nota: Este Reto trata varios proyectos mientras se desarrolla el Desafío. Aunque todos se incluyen aquí los diferenciaré con el item PROYECTO: .  
 # 
+### Fecha 19/02/2023 = 3 mordidas - 5h 30'// Acumulado = 12 mordidas - 24h 35'.  
+-PROYECTO: **desarrollar "Desafío 333dotX Mordidas**.    
+-Lugar: [Plataforma Canva](https://www.canva.com/), papel y preguntas sobre el proyecto a familiares y amigos tras mostrarlo.      
+-Mordida: Aún falta darle una madurez mayor. Estoy redefiniendo las normas y buscando el mejor encaje en varios aspectos tras hablarlo y mostrarlo: El nombre se debe simplificar-concentrar, hacerlo todo muy sencillo como si fuéramos "monos"(literal así me lo han propuesto), La app debe ser con pocas opciones y de apretar un botón para obtener un desafío, con un contador de minutos y horas y otro que sume el acumulando, dar más mordidas por tiempos pues no entienden que 33' sea una mordida y para otra sea 3 h, es decir, quieren más o no harían nunca esas 3 h , y cómo tratar con la cantidad de 333 mordidas para ajustar o hacerla coincidir con una una meta finalista que no sea ambigua, es decir, meditación ok pues meditas 333 veces/mordidas (esa es la meta) pero ¿aprender Javascript (esta es la meta) sin saber cuántas mordidas se necesitan exactamente?.    
+-Sensaciones: Un poco sorprendido por la visión de la gente joven pero la realidad se impone jaja y comenzamos las modificaciones.      
+-Link: 
+# 
 ### Fecha 15/02/2023 = 1 mordida - 0h 50'// Acumulado = 9 mordidas - 20h 05'.    
 -PROYECTO: **DNS en Polygon.**    
 -Lugar: [Buildspace](https://buildspace.so/p/build-polygon-ens).    
