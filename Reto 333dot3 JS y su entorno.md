@@ -1,7 +1,14 @@
-# Progreso y anotaciones  **"Reto 333dot3 JS y su entorno"**  
+# Progreso y anotaciones  **"Reto 333dot3 JavaScript y su entorno"**  
 **Este Reto 333dot3 nos avisa que se incluye en un Desafío 333dot3, es decir, 3 retos para lograr un [desafío previamente definido](https://github.com/Eccedev/Desafio-333dot3-JS-ETH-PROJ).**  
-#### Tributo a los espacios que me ayudan a lograr mi Desafío y mis Retos.  
-**En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Buildspace](https://buildspace.so/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Learnweb3](https://learnweb3.io/) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**
+#### Tributo a los espacios que me ayudan con JavaScript.  
+**En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Learnweb3](https://learnweb3.io/) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**
+# 
+### Fecha 20/02/2023 = 3 mordidas - 6h 00'// Acumulado = 22 mordidas - 39h 10'.  
+nota: realizo una breve readaptación de ruta para consolidar más base.  
+Lugar:  [Openbootcamp](https://open-bootcamp.com/) (Curso JavaScript básico).    
+Mordida: clases en vídeo con ejercicios prácticoa de métodos de strings, expresiones regulares, manipulaciones; Numbers y precisión, métodos y redondeo; trabajo con listas, métodos de mutación, concat, fragmentaciones, métodos de iteración, listas a partir de listas, comparaciones, ordenación, identificar existencia de valores en arraeglos.       
+Sensaciones: Estoy menos fuera de mi zona de confort pero sentía que necesitaba cimentar un poco más tras comenzar la segunda fase en alchemy.university y notar quedar bloqueado para resolver muchos ejercicios. Volveremos en breve a ellos.    
+link: 
 # 
 ### Fecha 16/02/2023 = 3 mordidas - 4h 10'// Acumulado = 19 mordidas - 33h 10'.  
 nota: Hoy he finalizado The Basics, la primera parte del Javascript Fundamentals (compuesto por tres partes). A partir de ahora entramos en Data Structures de Javascript. Como recordatorio este curso completo parte con Javascript (este reto) y continúa con otros 2 de mayor peso que son Ethereum Developer Bootcamp y Road to Web3, los cuales están incluidos en un reto aparte "Reto 333dot3 Ethereum y el entorno web3". En caso que el volumen de proyectos fuera muy grande me propondría incluir alguno/s en el "Reto 333dot3 Proyectos web2-web3" para equilibrar el peso del Desafío en general.  
