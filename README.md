@@ -1,6 +1,6 @@
 # **Desafío 333dot2 JS-ETH**  
 ###Mi **"Desafío 333dot2 JS-ETH"** se compone de dos "Retos":  
-- **"Reto 333dot2 JS, su entorno y proyectos web":** que he denominado así porque tenía que poner alguno 😃 y se entiende muy bien su objetivo!  
+- **"Reto 333dot2 JS, su entorno y proyectos":** que he denominado así porque tenía que poner alguno 😃 y se entiende muy bien su objetivo!  
 - **"Reto 333dot2 Ethereum, entorno web3 y proyectos web2-web3":** idem que el anterior😃.  
 
 **Mis fracciones del día** serán: por la  mañana (de 6 a 14 h), tarde (de 14 a 22 h) y noche (de 22 a 6 h). 
