@@ -14,7 +14,7 @@ PROYECTOS en DESARROLLO dentro de este desafío: **"Desafío333"**
 -Lugar: [Github](https://github.com/Eccedev/Desafio333-JavaScript) y [Plataforma Canva](https://www.canva.com/).      
 -Mordida: Modifico sistema para conseguir mordidas, simplifico creación desafíos, explico motivos del sistema y diferencia entre metas intrínsecas al sistema y extrínsecas. Tambien modifico repositorio anulando lo que antes se denominaba reto y los paso a desafío así como elimino el reto proyectos y los incluyo en los desafíos Javascript o Ethereum-web3.    
 -Sensaciones: Parece que se va aclarando todo aunque seguro que se puede mejorar aún más.      
--Link: 
+-Link: [Diseño desafio333dot](https://www.canva.com/design/DAFaL8Zw_HQ/yFwQbhcrLSPFVXKrJS6fWQ/view?utm_content=DAFaL8Zw_HQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
 #
 ### Fecha 21/02/2023 .  
 nota: realizo una readaptación general de Desafío333 y elimino los retos dentro de desafíos multiples. Ahora cada desafío es único. También elimino el Reto de proyectos y los reparto entre los dos desafíos previstos ahora: Desafío333 Javascript y Desafío333 Ethereum-web3.  
@@ -31,7 +31,7 @@ link:
 -Lugar: [Plataforma Canva](https://www.canva.com/), papel y preguntas sobre el proyecto a familiares y amigos tras mostrarlo.      
 -Mordida: Aún falta darle una madurez mayor. Estoy redefiniendo las normas y buscando el mejor encaje en varios aspectos tras hablarlo y mostrarlo: El nombre se debe simplificar-concentrar, hacerlo todo muy sencillo como si fuéramos "monos"(literal así me lo han propuesto), La app debe ser con pocas opciones y de apretar un botón para obtener un desafío, con un contador de minutos y horas y otro que sume el acumulando, dar más mordidas por tiempos pues no entienden que 33' sea una mordida y para otra sea 3 h, es decir, quieren más o no harían nunca esas 3 h , y cómo tratar con la cantidad de 333 mordidas para ajustar o hacerla coincidir con una una meta finalista que no sea ambigua, es decir, meditación ok pues meditas 333 veces/mordidas (esa es la meta) pero ¿aprender Javascript (esta es la meta) sin saber cuántas mordidas se necesitan exactamente?.    
 -Sensaciones: Un poco sorprendido por la visión de la gente joven pero la realidad se impone jaja y comenzamos las modificaciones.      
--Link: 
+-Link: [Diseño desafio333dot](https://www.canva.com/design/DAFaL8Zw_HQ/yFwQbhcrLSPFVXKrJS6fWQ/view?utm_content=DAFaL8Zw_HQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
 # 
 ### Fecha 16/02/2023 = 3 mordidas - 4h 10'// Acumulado = 29 mordidas - 49h 25'.  
 nota: Hoy he finalizado The Basics, la primera parte del Javascript Fundamentals (compuesto por tres partes). A partir de ahora entramos en Data Structures de Javascript. Como recordatorio este curso completo parte con Javascript (este reto) y continúa con otros 2 de mayor peso que son Ethereum Developer Bootcamp y Road to Web3, los cuales están incluidos en un reto aparte "Reto 333dot3 Ethereum y el entorno web3". En caso que el volumen de proyectos fuera muy grande me propondría incluir alguno/s en el "Reto 333dot3 Proyectos web2-web3" para equilibrar el peso del Desafío en general.  
