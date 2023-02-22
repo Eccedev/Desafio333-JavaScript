@@ -1,5 +1,5 @@
 # Progreso y anotaciones  **"Reto 333dot2 JavaScript, su entorno y proyectos"**  
-**Este Reto 333dot2 nos avisa que se incluye en un Desafío 333dot2, es decir, 2 retos para lograr un [desafío previamente definido](https://github.com/Eccedev/Desafio-333dot2-JS-ETH-PROJ).**  
+**Este Reto 333dot2 nos avisa que se incluye en un Desafío 333dot2, es decir, 2 retos para lograr un [desafío previamente definido](https://github.com/Eccedev/Desafio-333dot2-JS-ETH).**  
 #### Tributo a los espacios que más me ayudan con JavaScript, su entorno y proyectos.  
 **En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**  
 # 
