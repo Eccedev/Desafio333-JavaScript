@@ -4,6 +4,9 @@
 **En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Buildspace](https://buildspace.so/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Learnweb3](https://learnweb3.io/) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**  
 #
 PROYECTOS en DESARROLLO mientras se muerde este reto: **DNS en Polygon**
+#
+### Fecha 21/02/2023 = .  
+nota: realizo una readaptación general y elimino como independiente el reto de proyectos y los incluyo en los retos a los que pertenecen: entorno javascrip o entorno ethereum-web3.  
 # 
 ### Fecha 15/02/2023 = 1 mordida - 0h 50'// Acumulado = 3 mordidas - 3h 50'.    
 -PROYECTO: **DNS en Polygon.**    
