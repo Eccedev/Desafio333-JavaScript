@@ -1,7 +1,7 @@
 # Hoja de ruta y progreso  **"Desafío333 JavaScript"**  
 **Hoja de ruta:**  
 JavaScript - entorno de JS - Proyectos JS.  
-En este momento esta hoja de ruta va ligada a adquirir bases para conectar con el desafío de Ethereum, el entorno web3 y proyectos web2-web3.  
+En este momento esta hoja de ruta va ligada a adquirir bases para conectar con el [Desafío Ethereum web3](https://github.com/Eccedev/Desafio333-Ethereum-web3): Etehereum, lenguaje solidity, el entorno web3 y proyectos web2-web3.  
 También para continuar posteriormente con el aprendizaje más avanzado en Javascript.
 #### Tributo a los espacios que me ayudan mayormente a lograr este desafío.  
 **En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**  
@@ -12,12 +12,12 @@ PROYECTOS en DESARROLLO dentro de este desafío: **"Desafío333"**
 ### Fecha 22/02/2023 = 3 mordidas - 5h 30'// Acumulado = 32 mordidas - 54h 55'.  
 -PROYECTO: **desarrollar "Desafío 333dotX Mordidas** cambia a **Desafío333**.    
 -Lugar: [Github](https://github.com/Eccedev/Desafio333-JavaScript) y [Plataforma Canva](https://www.canva.com/).      
--Mordida: Modifico sistema para conseguir mordidas, simplifico creación desafíos, explico motivos del sistema y diferencia entre metas intrínsecas al sistema y extrínsecas. Tambien modifico repositorio anulando lo que antes se denominaba reto y los paso a desafío así como elimino el reto proyectos y los incluyo en los desafíos Javascript o Ethereum.    
+-Mordida: Modifico sistema para conseguir mordidas, simplifico creación desafíos, explico motivos del sistema y diferencia entre metas intrínsecas al sistema y extrínsecas. Tambien modifico repositorio anulando lo que antes se denominaba reto y los paso a desafío así como elimino el reto proyectos y los incluyo en los desafíos Javascript o Ethereum-web3.    
 -Sensaciones: Parece que se va aclarando todo aunque seguro que se puede mejorar aún más.      
 -Link: 
 #
-### Fecha 21/02/2023 = .  
-nota: realizo una readaptación general y elimino los retos dentro de desafíos multiples. Ahora cada desafío es único. También elimino el Reto de proyectos y los reparto entre los dos desafíos previstos ahora: Javascript y Ethereum.  
+### Fecha 21/02/2023 .  
+nota: realizo una readaptación general de Desafío333 y elimino los retos dentro de desafíos multiples. Ahora cada desafío es único. También elimino el Reto de proyectos y los reparto entre los dos desafíos previstos ahora: Desafío333 Javascript y Desafío333 Ethereum-web3.  
 # 
 ### Fecha 20/02/2023 = 4 mordidas - 6h 00'// Acumulado = 36 mordidas - 60h 55'.  
 nota: realizo una breve readaptación de ruta para consolidar más base.  
