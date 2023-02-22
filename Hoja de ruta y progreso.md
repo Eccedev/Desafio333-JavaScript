@@ -1,6 +1,6 @@
 # Hoja de ruta y progreso  **"Desafío333 JavaScript"**  
 **Hoja de ruta:**  
-Javascript - entorno de JS - Proyectos JS.  
+JavaScript - entorno de JS - Proyectos JS.  
 En este momento esta hoja de ruta va ligada a adquirir bases para conectar con el desafío de Ethereum, el entorno web3 y proyectos web2-web3.  
 También para continuar posteriormente con el aprendizaje más avanzado en Javascript.
 #### Tributo a los espacios que me ayudan mayormente a lograr este desafío.  
