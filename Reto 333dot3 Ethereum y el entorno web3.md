@@ -2,8 +2,8 @@
 **Este Reto 333dot2 nos avisa que se incluye en un Desafío 333dot2, es decir, 2 retos para lograr un [desafío previamente definido](https://github.com/Eccedev/Desafio-333dot2-JS-ETH).**  
 #### Tributo a los espacios que me ayudan mayormente a lograr mi reto con Ethereum, su entorno y proyectos web2-web3.  
 **En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Buildspace](https://buildspace.so/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Learnweb3](https://learnweb3.io/) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**  
-  
-
+#
+PROYECTOS en DESARROLLO mientras se muerde este reto: **DNS en Polygon**
 # 
 ### Fecha 15/02/2023 = 1 mordida - 0h 50'// Acumulado = 3 mordidas - 3h 50'.    
 -PROYECTO: **DNS en Polygon.**    
