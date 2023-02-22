@@ -2,6 +2,8 @@
 **Este Reto 333dot2 nos avisa que se incluye en un Desafío 333dot2, es decir, 2 retos para lograr un [desafío previamente definido](https://github.com/Eccedev/Desafio-333dot2-JS-ETH).**  
 #### Tributo a los espacios que me ayudan mayormente a lograr mi reto con JavaScript, su entorno y proyectos.  
 **En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**  
+#
+PROYECTOS en DESARROLLO dentro de este reto: **web-app "Desafío 333dotX Mordidas"**
 # 
 ### Fecha 20/02/2023 = 3 mordidas - 6h 00'// Acumulado = 31 mordidas - 60h 55'.  
 nota: realizo una breve readaptación de ruta para consolidar más base.  
