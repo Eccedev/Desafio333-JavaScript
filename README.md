@@ -1,17 +1,18 @@
-#   ...¡Desafío 333dotX mordidas está evolucionando a Desafío333!
-###Mi **"Desafío 333dot2 JS-ETH"** se compone de dos "Retos":  
-- **"Reto 333dot2 JavaScript, su entorno y proyectos":** que he denominado así porque tenía que poner alguno 😃 y se entiende muy bien su objetivo!  
-- **"Reto 333dot2 Ethereum, entorno web3 y proyectos web2-web3":** idem que el anterior😃.  
+# Desafío333 JavaScript    
+- Mi **"Desafío333 JavaScript" consta de: el lenguaje de programación JavaScript, su entorno y proyectos JS".**  
+  
 
-**Mis fracciones del día** serán: por la  mañana (de 6 a 14 h), tarde (de 14 a 22 h) y noche (de 22 a 6 h). 
+**Mis fracciones del día:**  
+- Mañana (de 6 a 14 h)  
+- Tarde (de 14 a 22 h)  
+- Noche (de 22 a 6 h). 
   
   **Tengo en cuenta:**  
-- Quiero superar 1 Desafío compuesto de 2 Retos 333dot2 porque están relacionados entre sí y creo que es lo mejor para lograr mi Gran Meta.
-- A pesar de encontrarse los 2 Retos relacionados entre sí, cada Reto debe lograr su objetivo de dar 333 mordidas como mínimo a su destreza a mejorar, o proyectos a desarrollar.  
-- Como mínimo 33 minutos de dedicación a cada habilidad o proyecto para lograr 1 mordida y alcanzar las 333 mordidas en distintas fracciones de diferentes días. De esta forma cumplimos con La Gran Meta 👀 de desarrollo y mejora provechosa y acumulativa en estado de flow😎, logrando objetivos alcanzables🚀. Pero quizás estoy yendo por la vía ¿menos tortuosa? y tenga que ser flexible y realizar ajustes en mi desafío. Vamos hablando y aclarando ideas👇!!!  
-- LLevaré un control de mordidas y tiempo dedicado-acumulado en cada Reto y en el Desafío general. 
+- Quiero superar el "Desafío333 JavaScript" mordiendo huesos de JavaScript, su entorno y proyectos JS.  
+- Los primeros 33 minutos en cada fracción del día de dedicación  a cada hueso suma +1 mordida, cada 3 horas acumuladas al día +1 mordida y cada 33 mordidas nos premiamos con +1 mordidad.   
+- LLevaré un control de mordidas y tiempo dedicado-acumulado en el Desafío333. 
 #
-**Hasta el día 20/2/23 he acumulado para este Desafío: 34 mordidas en 63h 45' ... y subiendo!** Descubre más entrando en cada Reto.
+**Hasta el día 20/2/23 he acumulado: x mordidas en xxh xx' ... y subiendo!** 
 # 
     
     
