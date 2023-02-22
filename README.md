@@ -32,7 +32,7 @@ Conseguir mordidas es muy fácil ¡Ya verás!
 ### Algunas flexi-normas  
 Lógica bioritmos: Los días se dividen en 3 fracciones de 8 h cada una. Tú las determinas. Ejemplo estándar: mañana: de 6h a 14h / tarde: de 14h a 22 h / noche: de 22h a 6h.   
 Incentivo COMIENZO: siempre los primeros 33 minutos en cualquier fracción del día mordiendo un hueso de tu desafío suma +1 mordisco.  
-Premio ESFUERZO: siempre cada 3 horas acumuladas a lo largo del día mordiendo un hueso de tu desafío suma +1 mordisco.  
+Premio ESFUERZO: siempre cada 3 horas acumuladas a lo largo de un día mordiendo en tu desafío suma +1 mordisco.  
 Premio CONSTANCIA: siempre al acumular 33 mordiscos suma +1 mordisco.  
 Regalo FINALIZACIÓN: siempre la última mordida de un desafío se dedicará a mostrar o aplicar las mejoras y desarrollos conseguidos durante el recorrido. 
   
