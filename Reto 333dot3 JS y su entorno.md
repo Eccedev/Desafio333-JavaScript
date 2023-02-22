@@ -1,40 +1,61 @@
-# Progreso y anotaciones  **"Reto 333dot3 JavaScript y su entorno"**  
-**Este Reto 333dot3 nos avisa que se incluye en un Desafío 333dot3, es decir, 3 retos para lograr un [desafío previamente definido](https://github.com/Eccedev/Desafio-333dot3-JS-ETH-PROJ).**  
-#### Tributo a los espacios que me ayudan con JavaScript.  
-**En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**
+# Progreso y anotaciones  **"Reto 333dot2 JavaScript, su entorno y proyectos"**  
+**Este Reto 333dot2 nos avisa que se incluye en un Desafío 333dot2, es decir, 2 retos para lograr un [desafío previamente definido](https://github.com/Eccedev/Desafio-333dot2-JS-ETH-PROJ).**  
+#### Tributo a los espacios que más me ayudan con JavaScript, su entorno y proyectos.  
+**En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**  
 # 
-### Fecha 20/02/2023 = 3 mordidas - 6h 00'// Acumulado = 22 mordidas - 39h 10'.  
+### Fecha 20/02/2023 = 3 mordidas - 6h 00'// Acumulado = 31 mordidas - 60h 55'.  
 nota: realizo una breve readaptación de ruta para consolidar más base.  
 Lugar:  [Openbootcamp](https://open-bootcamp.com/) (Curso JavaScript básico).    
 Mordida: clases en vídeo con ejercicios prácticoa de métodos de strings, expresiones regulares, manipulaciones; Numbers y precisión, métodos y redondeo; trabajo con listas, métodos de mutación, concat, fragmentaciones, métodos de iteración, listas a partir de listas, comparaciones, ordenación, identificar existencia de valores en arraeglos.       
-Sensaciones: Estoy menos fuera de mi zona de confort pero sentía que necesitaba cimentar un poco más tras comenzar la segunda fase en alchemy.university y notar quedar bloqueado para resolver muchos ejercicios. Volveremos en breve a ellos.    
+Sensaciones: Estoy menos fuera de mi zona de confort hoy pero sentía que necesitaba cimentar un poco más pues al comenzar la segunda fase en alchemy.university y noté que quedé bloqueado para resolver muchos ejercicios. Volveremos en breve a ellos para continuar javascript>ethereum.    
 link: 
 # 
-### Fecha 16/02/2023 = 3 mordidas - 4h 10'// Acumulado = 19 mordidas - 33h 10'.  
+### Fecha 19/02/2023 = 3 mordidas - 5h 30'// Acumulado = 28 mordidas - 54h 55'.  
+-PROYECTO: **desarrollar "Desafío 333dotX Mordidas**.    
+-Lugar: [Plataforma Canva](https://www.canva.com/), papel y preguntas sobre el proyecto a familiares y amigos tras mostrarlo.      
+-Mordida: Aún falta darle una madurez mayor. Estoy redefiniendo las normas y buscando el mejor encaje en varios aspectos tras hablarlo y mostrarlo: El nombre se debe simplificar-concentrar, hacerlo todo muy sencillo como si fuéramos "monos"(literal así me lo han propuesto), La app debe ser con pocas opciones y de apretar un botón para obtener un desafío, con un contador de minutos y horas y otro que sume el acumulando, dar más mordidas por tiempos pues no entienden que 33' sea una mordida y para otra sea 3 h, es decir, quieren más o no harían nunca esas 3 h , y cómo tratar con la cantidad de 333 mordidas para ajustar o hacerla coincidir con una una meta finalista que no sea ambigua, es decir, meditación ok pues meditas 333 veces/mordidas (esa es la meta) pero ¿aprender Javascript (esta es la meta) sin saber cuántas mordidas se necesitan exactamente?.    
+-Sensaciones: Un poco sorprendido por la visión de la gente joven pero la realidad se impone jaja y comenzamos las modificaciones.      
+-Link: 
+# 
+### Fecha 16/02/2023 = 3 mordidas - 4h 10'// Acumulado = 25 mordidas - 49h 25'.  
 nota: Hoy he finalizado The Basics, la primera parte del Javascript Fundamentals (compuesto por tres partes). A partir de ahora entramos en Data Structures de Javascript. Como recordatorio este curso completo parte con Javascript (este reto) y continúa con otros 2 de mayor peso que son Ethereum Developer Bootcamp y Road to Web3, los cuales están incluidos en un reto aparte "Reto 333dot3 Ethereum y el entorno web3". En caso que el volumen de proyectos fuera muy grande me propondría incluir alguno/s en el "Reto 333dot3 Proyectos web2-web3" para equilibrar el peso del Desafío en general.  
 Lugar: [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals).  
 Mordida: Nuevamente aprender y resolver ejercicios prácticos referente a clases, instancias, herencias, prototipos, métodos para manipularlos -súper, constructor y la palabra clave this y new. También números binarios y su relación con los hexadecimales.     
 Sensaciones: sintaxis enrevesada pero entendiendo la lógica. Será cuestión de codificar día a día para fijar más.  
 link: [lenguajejs](https://lenguajejs.com/javascript/oop/que-es/)
 # 
-### Fecha 15/02/2023 = 3 mordidas - 4h 20'// Acumulado = 16 mordidas - 29h 00'.  
+### Fecha 15/02/2023 = 3 mordidas - 4h 20'// Acumulado = 22 mordidas - 45h 15'.  
 nota: A pesar que continúo en estos inicios el itinerario de Alchemy University principalmente para enlazar javascript con Ethereum-Solidity y web3 he tenido que acudir a la web [lenguajejs](https://lenguajejs.com/javascript/oop/que-es/) para aclarar y comprender lo referente a clases, prototipos, etc.  
 Lugar: [lenguajejs](https://lenguajejs.com/javascript/oop/que-es/) y [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals).  
 Mordida: Aprender y resolver ejercicios prácticos referente a clases, instancias, prototipos, métodos para manipularlos -súper, constructor y la palabra clave this y new.     
 Sensaciones: Un poco duro, idea algo abstracta y con una sintaxis enrevesada y muchas cosas nuevas o sin amarrar bien del todo.  
 link: [lenguajejs](https://lenguajejs.com/javascript/oop/que-es/)
 # 
-### Fecha 14/02/2023 = 2 mordidas - 3h 50'// Acumulado = 13 mordidas - 24h 40'.  
+### Fecha 14/02/2023 = 2 mordidas - 3h 50'// Acumulado = 19 mordidas - 40h 55'.  
 nota: continúo en estos inicios el itinerario de Alchemy University principalmente para enlazar javascript con Ethereum-Solidity y web3.  
 Lugar: [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals).  
 Mordida: Resolución de ejercicios prácticos de string to number y viceversa, objeto  a JSON y viceversa, ECMASCRIPT y transpiladores como labeljs, desestructuración para desempaquetar un objeto y la palabra clave this-call y apply-.     
 Sensaciones: Cuando aparecen muchos conceptos e ideas nuevas parece que se pone cuesta arriba todo pero va encaminado. Evitando desánimo por ahora.  
 # 
-### Fecha 11/02/2023 = 1 mordidas - 1h 10'// Acumulado = 11 mordidas - 20h 50'.  
+### Fecha 11/02/2023 = 1 mordidas - 1h 10'// Acumulado = 17 mordidas - 37h 05'.  
 nota: continúo en estos inicios el itinerario de Alchemy University principalmente para enlazar javascript con Ethereum-Solidity y web3.  
 Lugar: [Alchemy University](https://university.alchemy.com/home) (Javascript Fundamentals).  
 Mordida: Resolución de ejercicios prácticos sobre operadores lógicos y excepciones-errores.     
 Sensaciones: Avanzando en el siguiente tramo de fundamentales JS en Intermediate JavaScript Features. Voy a tener que redimensionar los esfuerzos a los proyectos para no restar a este que lo quiero morder con ganas: intentaré morder a Dns en Polygon un poco pero no pararlo y al proyecto dasafío 333dotx aparcarlo por ahora.
+# 
+### Fecha 10/02/2023 = 3 mordidas - 10h 30'// Acumulado = 16 mordidas - 35h 55'.  
+-PROYECTO: **desarrollar "Desafío 333dotX Mordidas**.    
+-Lugar: [Plataforma Canva](https://www.canva.com/).      
+-Mordida: diseñando la web-app 'Desafío 333dot mordidas'; He definido las bases, las direcciones a acudir a través de links, las páginas y los items de la app (2, una para generar el desafío propuesto por el usuario y el otro para acumular el numero de mordidas y tiempo dedicado, diseñado la plantilla base, el index, la página explicativa de las normas. Pendiente de finalizar con el diseño del resto: formulario crear desafío según tipo (dot1 o dotX con retos), formulario para obtener mordidas y tiempo acumulado y una FAQ. También ya definidas las rrss: discord, telegram, facebook y twitter. La idea es envolver todo este proyecto con el hashtag **#midesafio333dot**.    
+-Sensaciones: Canva lo hace sencillo de llevar a cabo usando su pizarra para proyectos pero organizar el contenido, diseñar y llevarlo a la pizarra requiere su tiempo.    
+-Link: [Diseño desafio333dot](https://www.canva.com/design/DAFaL8Zw_HQ/yFwQbhcrLSPFVXKrJS6fWQ/view?utm_content=DAFaL8Zw_HQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
+# 
+### Fecha 9/02/2023 = 3 mordidas - 5h 45'// Acumulado = 13 mordidas - 25h 25'.    
+-PROYECTO: **desarrollar "Desafío 333dotX Mordidas**.  
+-Lugar: [web.guada.app](https://web.guada.app/).    
+-Mordida: definiendo mejor el sistema 'desafío 333dot'; finalizada y publicada la web-app informativa de 'Desafío 333dot Mordidas' en una plataforma no-code; la idea futura está prácticamente definida: será una web-aplicación donde se puede encontrar info, ayuda y links y también posibilidad de utilizar la app para incluir datos según el desafío propuesto por cualquier persona y con ello obtener una síntesis del sistema 'desafío 333dot' adaptado a sus elecciones. Comienzo a envolver todo este proyecto con el hashtag **#midesafio333dot**.  
+-Sensaciones: sencillo de llevar a cabo pero no permite nada de código, limita en opciones aunque cumple lo básico para muchos proyectos.  
+-link: https://desafio333dot.ltn.net/  
 # 
 ### Fecha 8/02/2023 = 3 mordidas - 4h 30'// Acumulado = 10 mordidas - 19h 40'.  
 nota: continúo en estos inicios el itinerario de Alchemy University principalmente para enlazar javascript con Ethereum-Solidity y web3.  
