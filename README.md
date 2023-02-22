@@ -11,10 +11,7 @@
 - Quiero superar el "Desafío333 JavaScript" mordiendo huesos de JavaScript, su entorno y proyectos JS.  
 - Los primeros 33 minutos en cada fracción del día de dedicación  a cada hueso suma +1 mordida, cada 3 horas acumuladas al día +1 mordida y cada 33 mordidas nos premiamos con +1 mordidad.   
 - LLevaré un control de mordidas y tiempo dedicado-acumulado en el Desafío333. 
-#
-**Hasta el día 20/2/23 he acumulado: x mordidas en xxh xx' ... y subiendo!** 
-# 
-    
+  
     
 # [Desafío333](https://github.com/Eccedev/Desafio333)
 
