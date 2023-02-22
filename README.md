@@ -9,7 +9,8 @@
 - Quiero superar 1 Desafío compuesto de 2 Retos 333dot2 porque están relacionados entre sí y creo que es lo mejor para lograr mi Gran Meta.
 - A pesar de encontrarse los 2 Retos relacionados entre sí, cada Reto debe lograr su objetivo de dar 333 mordidas como mínimo a su destreza a mejorar, o proyectos a desarrollar.  
 - Como mínimo 33 minutos de dedicación a cada habilidad o proyecto para lograr 1 mordida y alcanzar las 333 mordidas en distintas fracciones de diferentes días. De esta forma cumplimos con La Gran Meta 👀 de desarrollo y mejora provechosa y acumulativa en estado de flow😎, logrando objetivos alcanzables🚀. Pero quizás estoy yendo por la vía ¿menos tortuosa? y tenga que ser flexible y realizar ajustes en mi desafío. Vamos hablando y aclarando ideas👇!!!  
-- LLevaré un control de mordidas y tiempo dedicado-acumulado en cada Reto y en el Desafío general.  
+- LLevaré un control de mordidas y tiempo dedicado-acumulado en cada Reto y en el Desafío general. 
+#
 **Hasta el día 20/2/23 he acumulado para este Desafío: 34 mordidas en 63h 45' ... y subiendo!** Descubre más entrando en cada Reto.
 # 
     
