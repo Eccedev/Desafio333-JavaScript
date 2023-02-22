@@ -9,7 +9,14 @@ También para continuar posteriormente con el aprendizaje más avanzado en Javas
 #
 PROYECTOS en DESARROLLO dentro de este desafío: **"Desafío333"**  
 # 
-### Fecha 22/02/2023 = 3 mordidas - 5h 30'// Acumulado = 32 mordidas - 54h 55'.  
+### Fecha 22/02/2023 = 2 mordidas - 1h 00'// Acumulado = 41 mordidas - 67h 25'.  
+-nota: esta es una mordida a hueso diferente en un mismo día pero hace acumular > 6 h y entonces se añade +1 por acumulado horas (ver con apunte anterior)   
+-Lugar:  [Openbootcamp](https://open-bootcamp.com/) (Curso JavaScript básico).      
+-Mordida: clases en vídeo sobre conjuntos o set (valores no repetidos) y sus diferencias con arrays; objetos y su problemática obj1=obj2 hace apuntan al mismo punto de memoria y una modificación en uno tb afecta al otro (en valores primitivos no sucede) pero se suple con spread { ...} pues es un obj dentro de un objeto; ordenar listas de objetos con .sort((a-b) => a.anyo - b.anyo); cómo obtener fecha const fecha = new Date(), los valores de Date; comparación entre fechas .getDime; obtener día getDate(), mes con getMonth() y año con get FullYear; obtener fecha según nuestros deseos con .toLocaleDateString.  
+-Sensaciones: Buenas, continuando con cimentar un poco más pues al comenzar la segunda fase en alchemy.university noté que quedaba bloqueado para resolver muchos ejercicios. Volveremos en breve a ellos para continuar la ruta prevista javascript>ethereum.    
+-link: 
+# 
+### Fecha 22/02/2023 = 3 mordidas - 5h 30'// Acumulado = 39 mordidas - 66h 25'.  
 -PROYECTO: **desarrollar "Desafío 333dotX Mordidas** cambia a **Desafío333**.    
 -Lugar: [Github](https://github.com/Eccedev/Desafio333-JavaScript) y [Plataforma Canva](https://www.canva.com/).      
 -Mordida: Modifico sistema para conseguir mordidas, simplifico creación desafíos, explico motivos del sistema y diferencia entre metas intrínsecas al sistema y extrínsecas. Tambien modifico repositorio anulando lo que antes se denominaba reto y los paso a desafío así como elimino el reto proyectos y los incluyo en los desafíos Javascript o Ethereum-web3.    
