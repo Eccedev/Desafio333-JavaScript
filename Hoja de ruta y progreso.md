@@ -7,24 +7,35 @@ También para continuar posteriormente con el aprendizaje más avanzado en Javas
 **En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**  
  
 #
-PROYECTOS en DESARROLLO dentro de este desafío: **"Desafío333"**  
+PROYECTOS en DESARROLLO dentro de este desafío: **"PWA Desafío333"**  
+ PROYECTOS FINALIZADOS: [Cronómetro JS](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/cronometro-js)  
+
+#
+### Fecha 23/02/2023 = 2 mordidas - 4h 00'// Acumulado = 44 mordidas - 71h 25'.  
+-PROYECTO: Cronómetro básico con HTML, CSS y JS  
+-nota: Me salgo del registro esperado pero tenía ganas de tocar algo que pudiera finalizarlo, algo tangible.    
+-Lugar: búsqueda  en [Codepen](https://codepen.io/search/pens?q=cronometro+&cursor=ZD0xJm89MCZwPTE1) y realización en IDE VSCODE.       
+-Mordida: Siempre tengo que buscar muchos recursos para realizar modificaciones deseadas y que mejoren lo mordido sobre todo el CSS. Primera vez que muerdo algo de pruebas sobre un script de web.   
+-Sensaciones: Buena experiencia pues se finaliza algo. Creo que iré añadiendo alguno cada siempre que pueda para ver JS en acción viva.      
+-link: [Cronómetro JS](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/cronometro-js)  
 # 
-### Fecha 22/02/2023 = 2 mordidas - 1h 00'// Acumulado = 41 mordidas - 67h 25'.  
+### Fecha 22/02/2023 = 2 mordidas - 1h 00'// Acumulado = 42 mordidas - 67h 25'.  
 -nota: esta es una mordida a hueso diferente en un mismo día pero hace acumular > 6 h y entonces se añade +1 por acumulado horas (ver con apunte anterior)   
 -Lugar:  [Openbootcamp](https://open-bootcamp.com/) (Curso JavaScript básico).      
 -Mordida: clases en vídeo sobre conjuntos o set (valores no repetidos) y sus diferencias con arrays; objetos y su problemática obj1=obj2 hace apuntan al mismo punto de memoria y una modificación en uno tb afecta al otro (en valores primitivos no sucede) pero se suple con spread { ...} pues es un obj dentro de un objeto; ordenar listas de objetos con .sort((a-b) => a.anyo - b.anyo); cómo obtener fecha const fecha = new Date(), los valores de Date; comparación entre fechas .getDime; obtener día getDate(), mes con getMonth() y año con get FullYear; obtener fecha según nuestros deseos con .toLocaleDateString.  
 -Sensaciones: Buenas, continuando con cimentar un poco más pues al comenzar la segunda fase en alchemy.university noté que quedaba bloqueado para resolver muchos ejercicios. Volveremos en breve a ellos para continuar la ruta prevista javascript>ethereum.    
 -link: 
 # 
-### Fecha 22/02/2023 = 3 mordidas - 5h 30'// Acumulado = 39 mordidas - 66h 25'.  
+### Fecha 22/02/2023 = 3 mordidas - 5h 30'// Acumulado = 40 mordidas - 66h 25'.  
 -PROYECTO: **desarrollar "Desafío 333dotX Mordidas** cambia a **Desafío333**.    
 -Lugar: [Github](https://github.com/Eccedev/Desafio333-JavaScript) y [Plataforma Canva](https://www.canva.com/).      
 -Mordida: Modifico sistema para conseguir mordidas, simplifico creación desafíos, explico motivos del sistema y diferencia entre metas intrínsecas al sistema y extrínsecas. Tambien modifico repositorio anulando lo que antes se denominaba reto y los paso a desafío así como elimino el reto proyectos y los incluyo en los desafíos Javascript o Ethereum-web3.    
 -Sensaciones: Parece que se va aclarando todo aunque seguro que se puede mejorar aún más.      
 -Link: [Diseño desafio333dot](https://www.canva.com/design/DAFaL8Zw_HQ/yFwQbhcrLSPFVXKrJS6fWQ/view?utm_content=DAFaL8Zw_HQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
 #
-### Fecha 21/02/2023 .  
+### Fecha 21/02/2022. +1 mordida premio constancia // Acumulado = 37 mordidas - 60h 55'.
 nota: realizo una readaptación general de Desafío333 y elimino los retos dentro de desafíos multiples. Ahora cada desafío es único. También elimino el Reto de proyectos y los reparto entre los dos desafíos previstos ahora: Desafío333 Javascript y Desafío333 Ethereum-web3.  
+También añado +1 mordida por la lógica de constancia por alcanzar las 33 mordidas (ver normas nuevas de desafío333).  
 # 
 ### Fecha 20/02/2023 = 4 mordidas - 6h 00'// Acumulado = 36 mordidas - 60h 55'.  
 nota: realizo una breve readaptación de ruta para consolidar más base.  
