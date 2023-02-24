@@ -8,12 +8,18 @@ También para continuar posteriormente con el aprendizaje más avanzado en Javas
  
 #
 PROYECTOS en DESARROLLO dentro de este desafío: **"PWA Desafío333"**  
- PROYECTOS FINALIZADOS: [Cronómetro JS](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/cronometro-js)  
-
+PROYECTOS FINALIZADOS: [Cronómetro JS](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/cronometro-js)  
+#
+### Fecha 24/02/2023 = 2 mordidas - 5h 00'// Acumulado = 46 mordidas - 76h 25'.  
+-aclaración mordidas: solo mordí por la tarde, entonces +1 de los primeros 33' y +1 por acumulado 3h (no llegó a otras 3h para sumar uno más)   
+-Lugar: [Openbootcamp](https://open-bootcamp.com/) (Curso JavaScript básico).         
+-Mordida: declaracion de funciones, funciones-flecha-y-anonimas, funciones-generadoras, funciones-asincronas-y-promesas y carga-y-sobrecarga-de-funciones.     
+-Sensaciones: buenas, y hoy he alcanzado el 53% de este curso por lo que anima ver la evolución .          
+-nota: En Freecodecamp, en la fase de Basic JavaScript tengo realizado 93 partes de 113. Otro desafío para más adelante :-).        
 #
 ### Fecha 23/02/2023 = 2 mordidas - 4h 00'// Acumulado = 44 mordidas - 71h 25'.  
 -PROYECTO: Cronómetro básico con HTML, CSS y JS  
--nota: Me salgo del registro esperado pero tenía ganas de tocar algo que pudiera finalizarlo, algo tangible.    
+-nota: Me salgo del registro esperado pero tenía ganas de tocar algo que pudiera finalizarlo, algo tangible y que pueda aplicarlo a la app o PWA de desafío333.    
 -Lugar: búsqueda  en [Codepen](https://codepen.io/search/pens?q=cronometro+&cursor=ZD0xJm89MCZwPTE1) y realización en IDE VSCODE.       
 -Mordida: Siempre tengo que buscar muchos recursos para realizar modificaciones deseadas y que mejoren lo mordido sobre todo el CSS. Primera vez que muerdo algo de pruebas sobre un script de web.   
 -Sensaciones: Buena experiencia pues se finaliza algo. Creo que iré añadiendo alguno cada siempre que pueda para ver JS en acción viva.      
@@ -22,7 +28,7 @@ PROYECTOS en DESARROLLO dentro de este desafío: **"PWA Desafío333"**
 ### Fecha 22/02/2023 = 2 mordidas - 1h 00'// Acumulado = 42 mordidas - 67h 25'.  
 -nota: esta es una mordida a hueso diferente en un mismo día pero hace acumular > 6 h y entonces se añade +1 por acumulado horas (ver con apunte anterior)   
 -Lugar:  [Openbootcamp](https://open-bootcamp.com/) (Curso JavaScript básico).      
--Mordida: clases en vídeo sobre conjuntos o set (valores no repetidos) y sus diferencias con arrays; objetos y su problemática obj1=obj2 hace apuntan al mismo punto de memoria y una modificación en uno tb afecta al otro (en valores primitivos no sucede) pero se suple con spread { ...} pues es un obj dentro de un objeto; ordenar listas de objetos con .sort((a-b) => a.anyo - b.anyo); cómo obtener fecha const fecha = new Date(), los valores de Date; comparación entre fechas .getDime; obtener día getDate(), mes con getMonth() y año con get FullYear; obtener fecha según nuestros deseos con .toLocaleDateString.  
+-Mordida: clases en vídeo sobre conjuntos o set (valores no repetidos) y sus diferencias con arrays; objetos y su problemática obj1=obj2 hace apuntan al mismo punto de memoria y una modificación en uno tb afecta al otro (en valores primitivos no sucede) pero se suple con spread { ...} pues es un obj dentro de un objeto; ordenar listas de objetos con .sort((a-b) => a.anyo - b.anyo); cómo obtener fecha const fecha = new Date(), los valores de Date; comparación entre fechas .getTime; obtener día getDate(), mes con getMonth() y año con get FullYear; obtener fecha según nuestros deseos con .toLocaleDateString.  
 -Sensaciones: Buenas, continuando con cimentar un poco más pues al comenzar la segunda fase en alchemy.university noté que quedaba bloqueado para resolver muchos ejercicios. Volveremos en breve a ellos para continuar la ruta prevista javascript>ethereum.    
 -link: 
 # 
