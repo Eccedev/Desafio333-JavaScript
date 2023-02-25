@@ -1,5 +1,5 @@
 # Desafío333 JavaScript    
-- Mi **"Desafío333 JavaScript" consta de 3 huesos: 1 el lenguaje de programación JavaScript, 2 su entorno, 3 proyectos JavaScript".**  
+- **Mi "Desafío333 JavaScript" consta de 3 huesos: *el lenguaje de programación JavaScript, *el entorno JavaScript, *proyectos JavaScript"**.  
   
 
 **Mis fracciones del día:**  
