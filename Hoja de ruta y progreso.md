@@ -10,6 +10,12 @@ También para continuar posteriormente con el aprendizaje más avanzado en Javas
 PROYECTOS en DESARROLLO dentro de este desafío: **"PWA Desafío333"**  
 PROYECTOS FINALIZADOS: [Cronómetro JS](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/cronometro-js)  
 #
+### Fecha 25/02/2023 = 4 mordidas - 6h 15'// Acumulado = 50 mordidas - 82h 40'.  
+-aclaración mordidas: mordí por la mañana 1 h ejercicios de funciones y por la tarde el resto, entonces +1 de los primeros 33'por la mañana, +1 de los 33' por la tarde y +2 por 6h premio esfuerzo(ver normas desafío, +1 mordida cada 3h)     
+-Lugar: [Openbootcamp](https://open-bootcamp.com/) (Curso JavaScript básico).           
+-Mordida: ejercicios de funciones, gestión de errores en js, gestión de logs en NodeJS, ejercicio sobre NodeJS utilizando la librería winston de gestión de registros de logs.     
+-Sensaciones: A veces parece que de un día para otro el nivel de dificultad se duplica.            
+#
 ### Fecha 24/02/2023 = 2 mordidas - 5h 00'// Acumulado = 46 mordidas - 76h 25'.  
 -aclaración mordidas: solo mordí por la tarde, entonces +1 de los primeros 33' y +1 por acumulado 3h (no llegó a otras 3h para sumar uno más)   
 -Lugar: [Openbootcamp](https://open-bootcamp.com/) (Curso JavaScript básico).         
