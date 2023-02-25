@@ -4,7 +4,7 @@
 En este momento esta hoja de ruta va ligada a adquirir bases para conectar con el [Desafío Ethereum web3](https://github.com/Eccedev/Desafio333-Ethereum-web3): lenguaje solidity de Ethereum, el entorno web3 y proyectos web2-web3.  
 También para continuar posteriormente con el aprendizaje más avanzado en Javascript.
 #### Tributo a los espacios que me ayudan mayormente a lograr este desafío.  
-**En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Openbootcamp](https://open-bootcamp.com/) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**  
+**Por orden idioma español>inglés, todos valiosos: [Openbootcamp](https://open-bootcamp.com/)  - [Freecodecamp](https://www.freecodecamp.org/learn) - [Alchemy University](https://university.alchemy.com/home) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**  
  
 #
 PROYECTOS en DESARROLLO dentro de este desafío: **"PWA Desafío333"**  
