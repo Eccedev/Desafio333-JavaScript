@@ -10,6 +10,12 @@ También para continuar posteriormente con el aprendizaje más avanzado en Javas
 PROYECTOS en DESARROLLO dentro de este desafío: **"PWA Desafío333"**  
 PROYECTOS FINALIZADOS: [Cronómetro JS](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/cronometro-js)  
 #
+### Fecha 27/02/2023 = 1 mordidas - 2h 50'// Acumulado = 51 mordidas - 85h 30'.  
+-Lugar: [Openbootcamp](https://open-bootcamp.com/) (Curso JavaScript básico).           
+-Mordida: trabajando módulos commonjs y es6, utilizar librerías en node y npm, acceder a librerías interesantes, ejercicio de:  crear un proyecto nuevo en node configurándolo para módulos ES6, con un archivo con funciones para exportar, también un entrypoint index.js para importar, y finalmente instalar e importar una librería en el proyecto.       
+-Sensaciones: Bastante bien pues aclara ese aspecto de JS. El profesor es muy bueno.  
+-link: La [Librería Chalk](https://www.npmjs.com/package/chalk) se usó para cambiar color del console.log.  
+#
 ### Fecha 25/02/2023 = 4 mordidas - 6h 15'// Acumulado = 50 mordidas - 82h 40'.  
 -aclaración mordidas: mordí por la mañana 1 h ejercicios de funciones y por la tarde el resto, entonces +1 de los primeros 33'por la mañana, +1 de los 33' por la tarde y +2 por 6h premio esfuerzo(ver normas desafío, +1 mordida cada 3h)     
 -Lugar: [Openbootcamp](https://open-bootcamp.com/) (Curso JavaScript básico).           
