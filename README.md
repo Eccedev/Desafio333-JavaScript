@@ -1,5 +1,5 @@
-Para ver mi progreso en este Desafío click en [Hoja de ruta y progreso](https://github.com/Eccedev/Desafio333-JavaScript/blob/main/Hoja%20de%20ruta%20y%20progreso.md).
-Aquí abajo la explicación cómo funciona un Desafío333 ![image](https://github.com/Eccedev/Desafio333-JavaScript/assets/117386916/8de56fa3-dcbd-493b-b236-d8aba21de683)
+Para ver mi progreso en este Desafío click en [Hoja de ruta y progreso](https://github.com/Eccedev/Desafio333-JavaScript/blob/main/Hoja%20de%20ruta%20y%20progreso.md).  
+Aquí abajo la explicación cómo funciona un Desafío333   ![image](https://github.com/Eccedev/Desafio333-JavaScript/assets/117386916/8de56fa3-dcbd-493b-b236-d8aba21de683)  
 
 # Desafío333 JavaScript    
 - **Mi "Desafío333 JavaScript" consta de 3 huesos: *el lenguaje de programación JavaScript, *el entorno JavaScript, *proyectos JavaScript"**.  
