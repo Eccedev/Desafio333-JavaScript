@@ -14,7 +14,7 @@ PROYECTOS FINALIZADOS: [Cronómetro JS](https://github.com/Eccedev/Bootcamp-Java
 -Lugar: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)) (Curso JavaScript Algorithms and Data Structures, parte JavaScript básico).            
 -Mordida: Retomo el Desafío después de situación personal que me hizo descontinuarlo. Reviso y finalizo los 113 items de la parte de JavaScript Básico (me olvidé de ir anotando el progreso aquí), la cual me ha llevado 4 días con 5 horas cada uno de media compartidas entre maña y tarde. Recursión, operador ternario, do..while, funciones, objetos. Comienzo la parte de ES6 de 29 items sobre mejoras de ECMAScript 6: let, const, funciones flecha, parámetros por defecto para funciones y parámetro rest.  
 -Sensaciones: Contento de "superar" fases y aprovechando la experiencia de freecodecamp.   
--nota: También he aprovechado esta pausa para avanzar el curso Diseño Web Responsivo de [FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)) a falta de finalizar las dos últimas partes.  
+-nota: También he aprovechado esta pausa para avanzar el curso Diseño Web Responsivo de [FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/) a falta de finalizar las dos últimas partes.  
 #
 ### Fecha 27/02/2023 = 1 mordidas - 2h 50'// Acumulado = 51 mordidas - 85h 30'.  
 -Lugar: [Openbootcamp](https://open-bootcamp.com/) (Curso JavaScript básico).           
