@@ -7,8 +7,14 @@ También para continuar posteriormente con el aprendizaje más avanzado en Javas
 **Por orden idioma español>inglés, todos valiosos: [Openbootcamp](https://open-bootcamp.com/)  - [Freecodecamp](https://www.freecodecamp.org/learn) - [Alchemy University](https://university.alchemy.com/home) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**  
  
 #
-PROYECTOS en DESARROLLO dentro de este desafío: **"PWA Desafío333"**  
+PROYECTOS A DESARROLLAR dentro de este desafío: **"Web PWA APP Desafío333"**  
 PROYECTOS FINALIZADOS: [Cronómetro JS](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/cronometro-js)  
+#
+### Fecha 25/08/2023 =  mordidas - h '// Acumulado = 51 mordidas - 85h 30'.  
+-Lugar: [FreeCodeCamp]([https://open-bootcamp.com/](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)) (Curso JavaScript Algorithms and Data Structures, parte JavaScript básico).           
+-Mordida: Retomo el Desafío después de situación personal que me hizo descontinuarlo. Reviso y finalizo los 113 items de la parte de JavaScript Básico (me olvidé de ir anotando el progreso aquí), la cual me ha llevado 4 días con 5 horas cada uno de media. Recursión, operador ternario, do..while, funciones, objetos. Comienzo la parte de ES6 de 29 items sobre mejoras de ECMAScript 6: let, const, funciones flecha, parámetros por defecto para funciones y parámetro rest.
+-Sensaciones: Contento de "terminar-superar" fases y aprovechando la experiencia de freecodecamp. 
+-nota: También he aprovechado esta pausa para avanzar el curso Diseño Web Responsivo de [FreeCodeCamp](https://www.freecodecamp.org/espanol/learn/2022/responsive-web-design/#build-a-product-landing-page-project) a falta de finalizar las dos últimas partes.
 #
 ### Fecha 27/02/2023 = 1 mordidas - 2h 50'// Acumulado = 51 mordidas - 85h 30'.  
 -Lugar: [Openbootcamp](https://open-bootcamp.com/) (Curso JavaScript básico).           
