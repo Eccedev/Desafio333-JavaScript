@@ -14,7 +14,8 @@ PROYECTOS FINALIZADOS: [Cronómetro JS](https://github.com/Eccedev/Bootcamp-Java
 -Lugar: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) (Curso JavaScript Algorithms and Data Structures, parte ES6) y [FreeCodeCamp Youtube-Español](https://youtu.be/koiPxFFiqJ4?si=3LVuKB1BCJsHvLZ8) (Curso JavaScript para manipulación del DOM y realización de 5 proyectos).            
  -Mordida: Realizo items de la parte de ES6: sintaxis de desestructuración para pasar un objeto como parámetro de función, crear cadenas usando plantillas literales, escribir funciones breves y declarativas con ES6. También desarrollo el curso de manipulación del DOM y los 5 proyectos.   
  -Sensaciones: Mucha parte compleja que tendré que volver a revisar más adelante. Lo entiendo pero yo solo no llegaría a esas soluciones.  
- -nota: 3 h cada día en fracción del día durante la tarde (c/33' primeros +1 y c/3h acumuladas al día +1) = 2 mordidas /día. Añado + 1  por premio CONSTANCIA (siempre al acumular 33 mordiscos(33, 66,99...) suma +1 mordisco).  
+ -nota: días 28,29 y 30: 3 h cada día en fracción del día durante la tarde (c/33' primeros +1 y c/3h acumuladas al día +1) = 2 mordidas /día. 
+ Añado + 1  por premio CONSTANCIA (siempre al acumular 33 mordiscos(33, 66,99...) suma +1 mordisco).  
 #
 ### Fecha 25/08/2023 =  12 mordidas - 20h 00'// Acumulado =  63 mordidas - 105h 30'.  
 -Lugar: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) (Curso JavaScript Algorithms and Data Structures, parte JavaScript básico).            
