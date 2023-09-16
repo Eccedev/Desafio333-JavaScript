@@ -7,7 +7,7 @@ También para continuar posteriormente con el aprendizaje más avanzado en Javas
 **Por orden idioma español>inglés, todos valiosos: [Openbootcamp](https://open-bootcamp.com/)  - [Freecodecamp](https://www.freecodecamp.org/learn) - [Fullstackopen](https://fullstackopen.com/es/) - [Alchemy University](https://university.alchemy.com/home) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript), [W3schools](https://www.w3schools.com/js/default.asp) y otros muchos más creadores de contenido de este vasto campo.**  
  
 #
-PROYECTOS A DESARROLLAR dentro de este desafío: **"Proyecto IAC" (Web-Portafolio + PWA + DAPP-web2-web3 + APP + Plataforma + ...)**  
+PROYECTOS A DESARROLLAR dentro de este desafío: **["Proyecto IAC"](https://github.com/Eccedev/Proyecto-IAC/tree/main) (Web-Portafolio + PWA + DAPP-web2-web3 + APP + Plataforma + ...)**  
 PROYECTOS FINALIZADOS: [Cronómetro JS](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/cronometro-js); [Citas aleatorias](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/citas%20aleatorias); [Color Aleatorio](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/color-aleatorio); [Cronómetro fCC](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/cronometro%20fCC%20js); [Input cor RGB](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/input%20color%20RGB); [Lista de tareas](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/lista%20de%20tareas%20js) .  
 #
 ### Fecha 30/08/2023 =  7 mordidas - 9h 00'// Acumulado =  70 mordidas - 114h 30'.  
