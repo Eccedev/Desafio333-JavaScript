@@ -1,14 +1,20 @@
 # Hoja de ruta y progreso  **"Desafío333 JavaScript"**  
 **Huesos en mi hoja de ruta:**  
 *JavaScript - * entorno de JS - * Proyectos JS.  
-En este momento esta hoja de ruta va ligada a adquirir bases para conectar con el [Desafío Ethereum web3](https://github.com/Eccedev/Desafio333-Ethereum-web3): lenguaje solidity de Ethereum, el entorno web3 y proyectos web2-web3.  
-También para continuar posteriormente con el aprendizaje más avanzado en Javascript y su entorno.
-#### Tributo a los espacios que me ayudan mayormente a lograr este desafío.  
-**Por orden idioma español>inglés, todos valiosos: [Openbootcamp](https://open-bootcamp.com/)  - [Freecodecamp](https://www.freecodecamp.org/learn) - [Fullstackopen](https://fullstackopen.com/es/) - [Alchemy University](https://university.alchemy.com/home) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript), [W3schools](https://www.w3schools.com/js/default.asp) y otros muchos más creadores de contenido de este vasto campo.**  
+En este momento esta hoja de ruta va ligada a adquirir bases para conectar con próximo Desafío Web3: lenguaje Solidity de Ethereum, el entorno web3 y proyectos web2-web3.  
+Y por supuesto para continuar posteriormente con el aprendizaje más avanzado en Javascript y su entorno.
+#### Tributo a los espacios y comunidades que me ayudan mayormente a lograr este desafío.  
+**Por orden idioma español>inglés, todos valiosos: [Openbootcamp](https://open-bootcamp.com/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Alchemy University](https://university.alchemy.com/home) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript), [W3schools](https://www.w3schools.com/js/default.asp), [Stackoverflow](https://stackoverflow.com/questions) pero agradecido también a los otros muchos de este vasto campo en los que me opoyo puntualmente.**  
  
 #
 PROYECTOS A DESARROLLAR dentro de este desafío: **["Proyecto IAC"](https://github.com/Eccedev/Proyecto-IAC/tree/main) (Web-Portafolio + PWA + DAPP-web2-web3 + APP + Plataforma + ...)**  
 PROYECTOS FINALIZADOS: [Cronómetro JS](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/cronometro-js); [Citas aleatorias](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/citas%20aleatorias); [Color Aleatorio](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/color-aleatorio); [Cronómetro fCC](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/cronometro%20fCC%20js); [Input cor RGB](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/input%20color%20RGB); [Lista de tareas](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/lista%20de%20tareas%20js) .  
+#
+### Fecha 04/10/2023 =  7 mordidas - 9h 00'// Acumulado =  70 mordidas - 114h 30'.  
+-Lugar: [FreeCodeCamp Youtube - Español](https://www.youtube.com/watch?v=6Jfk8ic3KVk) (Aprende React Desde Cero - Curso de React Con Proyectos) y [Eloquent Javascript](https://eloquentjavascript.net/).              
+ -Mordida: Varios días tocando distintos videos de React para entender su lógica. Desarrollo del video-curso de React con CRA a falta de terminar el último proyecto de freeCodeCamp y subirlos a github. También he continuado tocando el libro de Eloquent 3ed para no dejar de ver JS.   
+ -Sensaciones: Una nueva perspectiva del desarrollo web con la introducción de los componentes.  
+ -nota: quiero ir terminando alguna certificación en freeCodeCamp. A ver si me concentro y paro de picar por todos lados cosas diferentes. El de  diseño web responsivo está casi finalizado pero aún tengo un buen recorrido pendiente en la siguiente parte en JavaScript, la de algoritmos y estructura de datos, para después empezar bien el de las librerías hasta el backend. Mi idea actual para conectarme bien con desarrollos Web3 es, después de JS, a por el MERN: React-Next, Node-Express y MongoDB.  
 #
 ### Fecha 30/08/2023 =  7 mordidas - 9h 00'// Acumulado =  70 mordidas - 114h 30'.  
 -Lugar: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) (Curso JavaScript Algorithms and Data Structures, parte ES6) y [FreeCodeCamp Youtube-Español](https://youtu.be/koiPxFFiqJ4?si=3LVuKB1BCJsHvLZ8) (Curso JavaScript para manipulación del DOM y realización de 5 proyectos).            
