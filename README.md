@@ -1,3 +1,5 @@
+EN DESARROLLO. VERSIÓN BETA.  
+
 Para ver mi progreso en este Desafío click en [Hoja de ruta y progreso](https://github.com/Eccedev/Desafio333-JavaScript/blob/main/Hoja%20de%20ruta%20y%20progreso.md).  
 Aquí abajo la explicación cómo funciona un Desafío333  
 ![image](https://github.com/Eccedev/Desafio333-JavaScript/assets/117386916/8de56fa3-dcbd-493b-b236-d8aba21de683)  
