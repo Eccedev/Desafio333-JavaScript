@@ -8,9 +8,8 @@ Y por supuesto para continuar posteriormente con el aprendizaje más avanzado en
  
 #
 PROYECTOS A DESARROLLAR dentro de este desafío: **["Proyecto IAC"](https://github.com/Eccedev/Proyecto-IAC/tree/main) (Web-Portafolio + PWA + DAPP-web2-web3 + APP + Plataforma + ...)**  
-PROYECTOS FINALIZADOS: [Cronómetro JS](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/cronometro-js); [Citas aleatorias](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/citas%20aleatorias); [Color Aleatorio](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/color-aleatorio); [Cronómetro fCC](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/cronometro%20fCC%20js); [Input cor RGB](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/input%20color%20RGB); [Lista de tareas](https://github.com/Eccedev/Bootcamp-Javascript/tree/main/PROYECTOS%20FINALIZADOS/lista%20de%20tareas%20js) .  
-#
-### Fecha 03/01/2024 =  3 mordidas - 3h 30'// Acumulado =  85 mordidas - 136h 00'.  
+PROYECTOS FINALIZADOS: [Aplicaciones de citas aleatorias, cronómetro, lista de tareas, juego, educativo, etc.](https://github.com/Eccedev/Proyectos-Javascript-finalizados/tree/main)  
+
 -Lugar: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)) y [JAB - Youtube](https://www.youtube.com/@soyjab/playlists) (Curso completo de Javascript moderno 2023).               
  -Mordida: de JAB (youtube) videos 4 y 5 con sus actividades + video 1 de actividades cortas (es otra play list de su canal). De freecodecamp  del nuevo recorrido del curso JavaScript Algorithms and Data Structures (Beta) puntos del 43 al 60 de "building a role playing game".  
  -nota: propósito 2024: CODIFICAR MINIMO 1 HORA CADA DÍA DE LUNES A VIERNES, ayer 1h por la mañana (+1 primeros 33' de la mañana) y otra por la tarde (+1 primeros 33' de la tarde). Hoy una hora y media por la mañana (+1 primeros 33' de la mañana).  
