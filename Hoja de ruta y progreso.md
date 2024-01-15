@@ -8,12 +8,14 @@ Y por supuesto para continuar posteriormente con el aprendizaje más avanzado en
  
 #
 PROYECTOS A DESARROLLAR dentro de este desafío: **["Proyecto IAC"](https://github.com/Eccedev/Proyecto-IAC/tree/main) (Web-Portafolio + PWA + DAPP-web2-web3 + APP + Plataforma + ...)**  
-PROYECTOS FINALIZADOS: [Aplicaciones de citas aleatorias, cronómetro, lista de tareas, juego, educativo, etc.](https://github.com/Eccedev/Proyectos-Javascript-finalizados/tree/main)  
-
--Lugar: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)) y [JAB - Youtube](https://www.youtube.com/@soyjab/playlists) (Curso completo de Javascript moderno 2023).               
- -Mordida: de JAB (youtube) videos 4 y 5 con sus actividades + video 1 de actividades cortas (es otra play list de su canal). De freecodecamp  del nuevo recorrido del curso JavaScript Algorithms and Data Structures (Beta) puntos del 43 al 60 de "building a role playing game".  
+PROYECTOS FINALIZADOS: [Aplicaciones de citas aleatorias, cronómetro, lista de tareas, juego, educativo, etc.](https://github.com/Eccedev/Proyectos-Javascript-finalizados/tree/main)               
  -nota: propósito 2024: CODIFICAR MINIMO 1 HORA CADA DÍA DE LUNES A VIERNES, ayer 1h por la mañana (+1 primeros 33' de la mañana) y otra por la tarde (+1 primeros 33' de la tarde). Hoy una hora y media por la mañana (+1 primeros 33' de la mañana).  
-#
+#  
+### Fecha 15/01/2024 =  9 mordidas - 12h 00'// Acumulado =  91 mordidas - 144h 30'.  
+-Lugar: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)) y [JAB - Youtube](https://www.youtube.com/@soyjab/playlists) (Curso completo de Javascript moderno 2023) y uso de IA para finalizar proyectos que he subido a [Codepen](https://github.com/Eccedev/Proyectos-Javascript-finalizados/tree/main).               
+ -Mordida: observando el video php-mysql-javascript de JAB y otros videos hasta el 6 de Curso completo de Javascript moderno 2023 + actividades de JAB y del nuevo recorrido del curso JavaScript Algorithms and Data Structures (Beta) de Freecodecamp, puntos del 42 al 72 de "building a role playing game".  
+ -nota: creo que no se guardó algunos de las anotaciones aquí realizadas en días anteriores. No importa, seguimos.
+ #
 ### Fecha 01/01/2024 =  6 mordidas - 9h 00'// Acumulado =  82 mordidas - 132h 30'.  
 -Lugar: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)) y [JAB - Youtube](https://www.youtube.com/@soyjab/playlists) (Curso completo de Javascript moderno 2023).               
  -Mordida: Tres primeros videos y actividades de JAB (youtube) con sus actividades  e inicio del nuevo recorrido del curso JavaScript Algorithms and Data Structures (Beta) de Freecodecamp, puntos del 1 al 42 de "building a role playing game".  
