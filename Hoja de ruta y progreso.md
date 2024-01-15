@@ -9,7 +9,7 @@ Y por supuesto para continuar posteriormente con el aprendizaje más avanzado en
 #
 PROYECTOS A DESARROLLAR dentro de este desafío: **["Proyecto IAC"](https://github.com/Eccedev/Proyecto-IAC/tree/main) (Web-Portafolio + PWA + DAPP-web2-web3 + APP + Plataforma + ...)**  
 PROYECTOS FINALIZADOS: [Aplicaciones de citas aleatorias, cronómetro, lista de tareas, juego, educativo, etc.](https://github.com/Eccedev/Proyectos-Javascript-finalizados/tree/main)               
- -nota: propósito 2024: CODIFICAR MINIMO 1 HORA CADA DÍA DE LUNES A VIERNES, ayer 1h por la mañana (+1 primeros 33' de la mañana) y otra por la tarde (+1 primeros 33' de la tarde). Hoy una hora y media por la mañana (+1 primeros 33' de la mañana).  
+**nota**: propósito 2024: CODIFICAR MINIMO 1 HORA CADA DÍA DE LUNES A VIERNES.
 #  
 ### Fecha 15/01/2024 =  9 mordidas - 12h 00'// Acumulado =  91 mordidas - 144h 30'.  
 -Lugar: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)) y [JAB - Youtube](https://www.youtube.com/@soyjab/playlists) (Curso completo de Javascript moderno 2023) y uso de IA para finalizar proyectos que he subido a [Codepen](https://github.com/Eccedev/Proyectos-Javascript-finalizados/tree/main).               
