@@ -5,7 +5,7 @@ Aquí abajo la explicación cómo funciona un Desafío333
 ![image](https://github.com/Eccedev/Desafio333-JavaScript/assets/117386916/8de56fa3-dcbd-493b-b236-d8aba21de683)  
 
 # Desafío333 JavaScript    
-- **Mi "Desafío333 JavaScript" consta de 3 huesos: *el lenguaje de programación JavaScript, *el entorno JavaScript, *proyectos JavaScript"**.  
+- **Mi Desafío333 JavaScript" consta de 3 huesos: *El lenguaje de programación **JavaScript** + el **Entorno JavaScript** + **Proyectos JavaScript**.  
   
 
 **Mis fracciones del día:**  
@@ -14,8 +14,8 @@ Aquí abajo la explicación cómo funciona un Desafío333
 - Noche (de 22 a 6 h). 
   
   **Tengo en cuenta:**  
-- Quiero superar el "Desafío333 JavaScript" mordiendo huesos de: JavaScript, su entorno y proyectos JavaScript.  
-- Los primeros 33 minutos en cada fracción del día de dedicación a cada hueso suma +1 mordida, cada 3 horas acumuladas al día +1 mordida y cada 33 mordidas nos premiamos con +1 mordidad.   
+- Quiero superar el "Desafío333 JavaScript" mordiendo huesos de: JavaScript + Entorno JS + Proyectos JavaScript.  
+- Los primeros 33 minutos en cada fracción del día de dedicación **a cada hueso** suma +1 mordida, cada 3 horas acumuladas al día +1 mordida y cada 33 mordidas nos premiamos con +1 mordidad.   
 - LLevaré un control de mordidas y tiempo dedicado-acumulado en mi Desafío333. 
   
     
