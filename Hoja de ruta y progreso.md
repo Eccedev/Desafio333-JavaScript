@@ -8,9 +8,14 @@ Y por supuesto para continuar posteriormente con el aprendizaje más avanzado en
  
 #
 PROYECTOS A DESARROLLAR dentro de este desafío: **["Proyecto IAC"](https://github.com/Eccedev/Proyecto-IAC/tree/main) (Web-Portafolio + PWA + DAPP-web2-web3 + APP + Plataforma + ...)**  
-PROYECTOS FINALIZADOS: [Aplicaciones de citas aleatorias, cronómetro, lista de tareas, juego, aplicación web educativa, etc.](https://github.com/Eccedev/Proyectos-Javascript-finalizados/tree/main)               
+PROYECTOS FINALIZADOS: [Aplicaciones de citas aleatorias, cronómetro, lista de tareas, juego, aplicación web educativa, app de tests, etc.](https://github.com/Eccedev/Proyectos-Javascript-finalizados/tree/main)               
 **nota**: propósito 2024: CODIFICAR MINIMO 1 HORA CADA DÍA de lunes a viernes || >= 7h x semana.  
 #  
+### Fecha 24/01/2024 =  4 mordidas - 4h 00'// Acumulado =  101 mordidas - 156h 30'.  
+-Lugar: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)) y uso de IA para desarrollar una webapp de tests alojado en [Codepen](https://codepen.io/Eccedev/pen/QWoqwvQ) .           
+ -Mordida: curso JavaScript Algorithms and Data Structures (Beta) de Freecodecamp, puntos del 122 al 145 de "building a role playing game" y como aprendizaje cruzado uso de las IA para lograr diferentes app, en este caso finalizo una para realizar tests donde dentro del archivo js se puede ir añadiendo más objetos para aumentar la lista de preguntas, teniendo en cuenta que hay que definir en correctAnswer la solución según aparezca en el array answers [0, 1, 2].    
+ -nota: 2h por la mañana (+2 mordidas primeros 33' hueso javascript y 33' proyectos js) y 2h por la tarde (+1 primeros 33' hueso js y +1 acumulado del día por > de tres horas este día).  
+ #
 ### Fecha 21/01/2024 =  6 mordidas - 8h 00'// Acumulado =  97 mordidas - 152h 30'.  
 -Lugar: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)) y uso de IA Llama 2 y Copilot-Bing para comenzar a desarrollar la webapp de Desafío333 para crear, calcular y acumular mordidas sin usar backend, en principio intentando en localstorage para guardar la info del nombre del Desafío333, sus huesos (destrezas o proyectos) y mordidas y tiempo acumulado.           
  -Mordida: curso JavaScript Algorithms and Data Structures (Beta) de Freecodecamp, puntos del 72 al 122 de "building a role playing game" y como aprendizaje cruzado los outputs que consigo obtener de html, css y javascript de las IA para intentar lograr la webApp más ideal para Desafío333.  
