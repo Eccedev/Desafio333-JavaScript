@@ -11,7 +11,7 @@ PROYECTOS A DESARROLLAR dentro de este desafío: **["Proyecto IAC"](https://gith
 PROYECTOS FINALIZADOS: [Aplicaciones de citas aleatorias, cronómetro, lista de tareas, juego, aplicación web educativa, app de tests, etc.](https://github.com/Eccedev/Proyectos-Javascript-finalizados/tree/main)               
 **nota**: propósito 2024: CODIFICAR MINIMO 1 HORA CADA DÍA de lunes a viernes || >= 7h x semana.  
 #  
-### Fecha 30/01/2024 =   mordidas - h 00'// Acumulado =  109 mordidas - 164h 30'.  
+### Fecha 30/01/2024 =  6 mordidas - 6h 30'// Acumulado =  115 mordidas - 171h 00'.  
 -Lugar: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)) y mordiendo algo del desarrollo de la PWA de Desafío333, en este momento he logrado que el localstorage del nombre del desafío y los huesos se guarden. Aún no logro resolver la lógica para calcular tiempo en cada hueso y la relación con las mordidas obtenidas durante el día mordiendo y que al introducir datos sea hueso a hueso.  
  -Mordida: curso JavaScript Algorithms and Data Structures (Beta) de Freecodecamp, ya por paso 45 del segundo proyecto de ese curso "Learn form validation by building a calorie counter",y como aprendizaje cruzado mejoras de html, css y js y uso de las IA para lograr ir mejorando desafío333.  
  -nota: día 29 1h por la mañana a js (+1 primeros 33') y 2h por la tarde a javascript y proyecto desafío333 (+2 primeros 33' hueso js y a proyecto desafío y +1 acumulado del día por cada tres horas este día) y día 30 3h30' por la tarde (+1 js primeros 33' y +1 por cada de 3h).  
