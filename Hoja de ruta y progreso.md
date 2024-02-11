@@ -11,6 +11,10 @@ PROYECTOS A DESARROLLAR dentro de este desafío: **["Proyecto IAC"](https://gith
 PROYECTOS FINALIZADOS: [Aplicaciones de citas aleatorias, cronómetro, lista de tareas, juego, aplicación web educativa, app de tests, etc.](https://github.com/Eccedev/Proyectos-Javascript-finalizados/tree/main)               
 **nota**: propósito 2024: CODIFICAR MINIMO 1 HORA CADA DÍA de lunes a viernes || >= 7h x semana.  
 #  
+### Fecha 11/02/2024 =  1 mordidas - 1h 00'// Acumulado =  125 mordidas - 183h 00'.  
+-Lugar: [JAB - Youtube](https://www.youtube.com/watch?v=6JmbeLzo9-U&list=PLRM7PpbqqStK4JPmAGtEbTIC9xHU6sOeM&index=10): JAVASCRIPT y su INCREÍBLE problema con los DECIMALES + Actividad PRÁCTICA + SOLUCIÓN Paso a Paso y [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)).  
+-Mordida: Visionado de video y comienzo realización de la actividad propuestas sobre decimales y sus problemas en JAVASCRIPT, y en el curso JavaScript Algorithms and Data Structures (Beta) de Freecodecamp, finalizo el segundo proyecto de ese curso "Learn form validation by building a calorie counter".  
+ # 
 ### Fecha 10/02/2024 =  5 mordidas - 7h 00'// Acumulado =  124 mordidas - 182h 00'.  
 -Lugar: [JAB - Youtube](https://www.youtube.com/watch?v=i1ICXwU_zK4&list=PLRM7PpbqqStK4JPmAGtEbTIC9xHU6sOeM&index=10) y [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)).  
 -Mordida: Visionado de video y realización de las dos actividades propuestas sobre los INPUTS con JAVASCRIPT | Cómo LEER lo que ha escrito el usuario y qué MÉTODOS utilizar; y curso JavaScript Algorithms and Data Structures (Beta) de Freecodecamp, ya por paso 91 del segundo proyecto de ese curso "Learn form validation by building a calorie counter".  
