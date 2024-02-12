@@ -11,6 +11,11 @@ PROYECTOS A DESARROLLAR dentro de este desafío: **["Proyecto IAC"](https://gith
 PROYECTOS FINALIZADOS: [Aplicaciones de citas aleatorias, cronómetro, lista de tareas, juego, aplicación web educativa, app de tests, etc.](https://github.com/Eccedev/Proyectos-Javascript-finalizados/tree/main)               
 **nota**: propósito 2024: CODIFICAR MINIMO 1 HORA CADA DÍA de lunes a viernes || >= 7h x semana.  
 #  
+### Fecha 12/02/2024 =  3 mordidas - 3h 00'// Acumulado =  128 mordidas - 186h 00'.  
+-Lugar: [JAB - Youtube](https://www.youtube.com/watch?v=6JmbeLzo9-U&list=PLRM7PpbqqStK4JPmAGtEbTIC9xHU6sOeM&index=10): JAVASCRIPT y su INCREÍBLE problema con los DECIMALES + Actividad PRÁCTICA + SOLUCIÓN Paso a Paso y [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)).  
+-Mordida: Terminar la actividad propuesta en JAB-youtube sobre decimales y sus problemas en JAVASCRIPT, y en el curso JavaScript Algorithms and Data Structures (Beta) de Freecodecamp, comienzo el tercer proyecto de ese curso "Learn Basic String and Array Methods by Building a Music Player", hoy hasta paso 18.  
+-nota: realmente aprendo bastante en jab-youtube pues aclara conceptos mientras realiza actividades. En cuando a freecodecamp está más denso y necesitaría ayuda en momentos donde la exigencia sube mucho, lo que está sucediendo a partir de donde me he quedado. Espero que sea una forma algo dura de ir encadenando conocimiento que pueda aplicar en el futuro.  
+ # 
 ### Fecha 11/02/2024 =  1 mordidas - 1h 00'// Acumulado =  125 mordidas - 183h 00'.  
 -Lugar: [JAB - Youtube](https://www.youtube.com/watch?v=6JmbeLzo9-U&list=PLRM7PpbqqStK4JPmAGtEbTIC9xHU6sOeM&index=10): JAVASCRIPT y su INCREÍBLE problema con los DECIMALES + Actividad PRÁCTICA + SOLUCIÓN Paso a Paso y [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)).  
 -Mordida: Visionado de video y comienzo realización de la actividad propuestas sobre decimales y sus problemas en JAVASCRIPT, y en el curso JavaScript Algorithms and Data Structures (Beta) de Freecodecamp, finalizo el segundo proyecto de ese curso "Learn form validation by building a calorie counter".  
