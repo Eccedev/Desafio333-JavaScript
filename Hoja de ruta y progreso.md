@@ -11,6 +11,12 @@ PROYECTOS A DESARROLLAR dentro de este desafío: **["Proyecto IAC"](https://gith
 PROYECTOS FINALIZADOS: [Aplicaciones de citas aleatorias, cronómetro, lista de tareas, juego, aplicación web educativa, app de tests, etc.](https://github.com/Eccedev/Proyectos-Javascript-finalizados/tree/main)               
 **nota**: propósito 2024: CODIFICAR MINIMO 1 HORA CADA DÍA de lunes a viernes || >= 7h x semana.  
 #  
+### Fecha 13/02/2024 =  3 mordidas - 3h 00'// Acumulado =  131 mordidas - 189h 00'.  
+-Lugar: [JAB - Youtube](https://www.youtube.com/watch?v=DSpkuoS-5kI&list=PLRM7PpbqqStK4JPmAGtEbTIC9xHU6sOeM&index=15): PON a PRUEBA TUS conocimientos ESENCIALES y BÁSICOS de JAVASCRIPT - PRUEBA de CONTROL del CURSO -.  
+-Mordida: Ver video y terminar la actividad propuesta en JAB-youtube sobre vriables, comillas invertidas, queryselector, decimales, funciones, etc.  
+-nota: aunque no puedo aplicar todo lo aprendido sí entiendo todo cuando adelanto algo la explicación de la actividad pues aclara conceptos mientras realiza la tarea propuesta.  
+-nota 2:  hoy 1 h por la mañana (+1 por los primeros 33' de fracción de la mañana) y 2 h por la tarde (+1 por los primeros 33' de fracción de la tarde y +1 por acumular >3h durante el día a este desafío).  
+ # 
 ### Fecha 12/02/2024 =  3 mordidas - 3h 00'// Acumulado =  128 mordidas - 186h 00'.  
 -Lugar: [JAB - Youtube](https://www.youtube.com/watch?v=6JmbeLzo9-U&list=PLRM7PpbqqStK4JPmAGtEbTIC9xHU6sOeM&index=10): JAVASCRIPT y su INCREÍBLE problema con los DECIMALES + Actividad PRÁCTICA + SOLUCIÓN Paso a Paso y [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)).  
 -Mordida: Terminar la actividad propuesta en JAB-youtube sobre decimales y sus problemas en JAVASCRIPT, y en el curso JavaScript Algorithms and Data Structures (Beta) de Freecodecamp, comienzo el tercer proyecto de ese curso "Learn Basic String and Array Methods by Building a Music Player", hoy hasta paso 18.  
