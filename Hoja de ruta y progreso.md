@@ -11,46 +11,51 @@ PROYECTOS A DESARROLLAR dentro de este desafío: **["Proyecto IAC"](https://gith
 PROYECTOS FINALIZADOS: [Aplicaciones de citas aleatorias, cronómetro, lista de tareas, juego, aplicación web educativa, app de tests, etc.](https://github.com/Eccedev/Proyectos-Javascript-finalizados/tree/main)               
 **nota**: propósito 2024: CODIFICAR MINIMO 1 HORA CADA DÍA de lunes a viernes || >= 7h x semana.  
 #  
-### Fecha 13/02/2024 =  3 mordidas - 3h 00'// Acumulado =  131 mordidas - 189h 00'.  
+### Fecha 18/02/2024 =  3 mordidas - 3h 00'// Acumulado =  136 mordidas - 192h 00'.  
+-Lugar: [JAB - Youtube](https://www.youtube.com/playlist?list=PLRM7PpbqqStK4JPmAGtEbTIC9xHU6sOeM) y [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)).  
+-Mordida:En JAB-youtube repasar conceptos y pasar a mano y en papel los scripts de js para visualizarlos más rápido cuando quiero buscar alguna forma de realizar una tarea o aclara algo. En freeCodeCamp el tercer proyecto de ese curso "Learn Basic String and Array Methods by Building a Music Player", hoy hasta paso 26 pero me he atascado ahí. A ver si voy repasando todo para continuar más o menos entendiendo lo que se hace.  
+-nota:  días 14,15 y 16, una hora cada día (+1,+1,+1 primeros 33').  
+ # 
+### Fecha 13/02/2024 =  4 mordidas - 3h 00'// Acumulado =  133 mordidas - 189h 00'.  
 -Lugar: [JAB - Youtube](https://www.youtube.com/watch?v=DSpkuoS-5kI&list=PLRM7PpbqqStK4JPmAGtEbTIC9xHU6sOeM&index=15): PON a PRUEBA TUS conocimientos ESENCIALES y BÁSICOS de JAVASCRIPT - PRUEBA de CONTROL del CURSO -.  
 -Mordida: Ver video y terminar la actividad propuesta en JAB-youtube sobre vriables, comillas invertidas, queryselector, decimales, funciones, etc.  
 -nota: aunque no puedo aplicar todo lo aprendido sí entiendo todo cuando adelanto algo la explicación de la actividad pues aclara conceptos mientras realiza la tarea propuesta.  
--nota 2:  hoy 1 h por la mañana (+1 por los primeros 33' de fracción de la mañana) y 2 h por la tarde (+1 por los primeros 33' de fracción de la tarde y +1 por acumular >3h durante el día a este desafío).  
+-nota 2:  hoy 1 h por la mañana (+1 por los primeros 33' de fracción de la mañana) y 2 h por la tarde (+1 por los primeros 33' de fracción de la tarde y +1 por acumular >3h durante el día a este desafío)  y Añado + 1  por premio CONSTANCIA (siempre al acumular 33 mordiscos(33,66,99,132...).  
  # 
-### Fecha 12/02/2024 =  3 mordidas - 3h 00'// Acumulado =  128 mordidas - 186h 00'.  
+### Fecha 12/02/2024 =  3 mordidas - 3h 00'// Acumulado =  129 mordidas - 186h 00'.  
 -Lugar: [JAB - Youtube](https://www.youtube.com/watch?v=6JmbeLzo9-U&list=PLRM7PpbqqStK4JPmAGtEbTIC9xHU6sOeM&index=10): JAVASCRIPT y su INCREÍBLE problema con los DECIMALES + Actividad PRÁCTICA + SOLUCIÓN Paso a Paso y [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)).  
 -Mordida: Terminar la actividad propuesta en JAB-youtube sobre decimales y sus problemas en JAVASCRIPT, y en el curso JavaScript Algorithms and Data Structures (Beta) de Freecodecamp, comienzo el tercer proyecto de ese curso "Learn Basic String and Array Methods by Building a Music Player", hoy hasta paso 18.  
 -nota: realmente aprendo bastante en jab-youtube pues aclara conceptos mientras realiza actividades. En cuando a freecodecamp está más denso y necesitaría ayuda en momentos donde la exigencia sube mucho, lo que está sucediendo a partir de donde me he quedado. Espero que sea una forma algo dura de ir encadenando conocimiento que pueda aplicar en el futuro.  
  # 
-### Fecha 11/02/2024 =  1 mordidas - 1h 00'// Acumulado =  125 mordidas - 183h 00'.  
+### Fecha 11/02/2024 =  1 mordidas - 1h 00'// Acumulado =  126 mordidas - 183h 00'.  
 -Lugar: [JAB - Youtube](https://www.youtube.com/watch?v=6JmbeLzo9-U&list=PLRM7PpbqqStK4JPmAGtEbTIC9xHU6sOeM&index=10): JAVASCRIPT y su INCREÍBLE problema con los DECIMALES + Actividad PRÁCTICA + SOLUCIÓN Paso a Paso y [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)).  
 -Mordida: Visionado de video y comienzo realización de la actividad propuestas sobre decimales y sus problemas en JAVASCRIPT, y en el curso JavaScript Algorithms and Data Structures (Beta) de Freecodecamp, finalizo el segundo proyecto de ese curso "Learn form validation by building a calorie counter".  
  # 
-### Fecha 10/02/2024 =  5 mordidas - 7h 00'// Acumulado =  124 mordidas - 182h 00'.  
+### Fecha 10/02/2024 =  5 mordidas - 7h 00'// Acumulado =  125 mordidas - 182h 00'.  
 -Lugar: [JAB - Youtube](https://www.youtube.com/watch?v=i1ICXwU_zK4&list=PLRM7PpbqqStK4JPmAGtEbTIC9xHU6sOeM&index=10) y [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)).  
 -Mordida: Visionado de video y realización de las dos actividades propuestas sobre los INPUTS con JAVASCRIPT | Cómo LEER lo que ha escrito el usuario y qué MÉTODOS utilizar; y curso JavaScript Algorithms and Data Structures (Beta) de Freecodecamp, ya por paso 91 del segundo proyecto de ese curso "Learn form validation by building a calorie counter".  
  -nota: día 3 1h por la mañana a js (+1 primeros 33'), día 5 1h por la mañana a js (+1), el día 9 1h por la mañana a js (+1) y día 10 4h por la tarde (+1 primeros 33' y +1 por cada 3h del día).  
  # 
-### Fecha 02/02/2024 =  4 mordidas - 4h 00'// Acumulado =  119 mordidas - 175h 00'.  
+### Fecha 02/02/2024 =  4 mordidas - 4h 00'// Acumulado =  120 mordidas - 175h 00'.  
 -Lugar: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)).  
 -Mordida: curso JavaScript Algorithms and Data Structures (Beta) de Freecodecamp, ya por paso 85 del segundo proyecto de ese curso "Learn form validation by building a calorie counter".  
  -nota: día 31 1h por la mañana a js (+1 primeros 33') y día 2 1h por la mañana a js (+1) y 2h por la tarde (+1 js primeros 33' y +1 por cada 3h del día).  
  # 
-### Fecha 30/01/2024 =  6 mordidas - 6h 30'// Acumulado =  115 mordidas - 171h 00'.  
+### Fecha 30/01/2024 =  6 mordidas - 6h 30'// Acumulado =  116 mordidas - 171h 00'.  
 -Lugar: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)) y mordiendo algo del desarrollo de la PWA de Desafío333, en este momento he logrado que el localstorage del nombre del desafío y los huesos se guarden. Aún no logro resolver la lógica para calcular tiempo en cada hueso y la relación con las mordidas obtenidas durante el día mordiendo y que al introducir datos sea hueso a hueso.  
  -Mordida: curso JavaScript Algorithms and Data Structures (Beta) de Freecodecamp, ya por paso 45 del segundo proyecto de ese curso "Learn form validation by building a calorie counter",y como aprendizaje cruzado mejoras de html, css y js y uso de las IA para lograr ir mejorando desafío333.  
  -nota: día 29 1h por la mañana a js (+1 primeros 33') y 2h por la tarde a javascript y proyecto desafío333 (+2 primeros 33' hueso js y a proyecto desafío y +1 acumulado del día por cada tres horas este día) y día 30 3h30' por la tarde (+1 js primeros 33' y +1 por cada 3h).  
  #  
-### Fecha 27/01/2024 =  8 mordidas - 8h 00'// Acumulado =  109 mordidas - 164h 30'.  
+### Fecha 27/01/2024 =  8 mordidas - 8h 00'// Acumulado =  110 mordidas - 164h 30'.  
 -Lugar: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)) y acercándome a acabar desarrollo de la PWA de Desafío333 aunque aún no logro resolver la lógica para calcular tiempo en cada hueso y la relación con las mordidas obtenidas durante el día mordiendo. Tampoco tengo la base para realizar el localstorage bien pero puede, creo, solucionarse si se crea como PWA.  
  -Mordida: curso JavaScript Algorithms and Data Structures (Beta) de Freecodecamp, finalizar proyecto "building a role playing game" y comienzo del segundo proyecto de ese curso "Learn form validation by building a calorie counter", realizado hasta el ejercicio 13,  y como aprendizaje cruzado mejoras de html, css y js y uso de las IA para lograr ir mejorando diferentes proyectos webapps que tengo a medio (desafío333 y proyecto iac).  
  -nota: día 25 1h (+1 33' proyectos js), día 26 1h por la mañana y 2h por la tarde a javascript (+2 primeros 33' hueso js y +1 acumulado del día por > de tres horas este día) y día 27 1h por la mañana (+1 hueso js) y 3h por la tarde (+1 js, +1 proyectos, +1 > de 3h).  
  nota 2: mi desafío está acumulando mordidas muy discontinuadamente pero me gusta recordarme a mí mismo que el año pasado a partir de marzo fue por fuerza mayor de salud y hospitalización y desde septiembre por reanudar mis estudios universitarios, los cuales también requieren tiempo, y como no, la familia :). 
  #
-### Fecha 24/01/2024 =  4 mordidas - 4h 00'// Acumulado =  101 mordidas - 156h 30'.  
+### Fecha 24/01/2024 =  5 mordidas - 4h 00'// Acumulado =  102 mordidas - 156h 30'.  
 -Lugar: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)) y uso de IA para desarrollar una webapp de tests alojado en [Codepen](https://codepen.io/Eccedev/pen/QWoqwvQ).  
  -Mordida: curso JavaScript Algorithms and Data Structures (Beta) de Freecodecamp, puntos del 122 al 145 de "building a role playing game" y como aprendizaje cruzado uso de las IA para lograr diferentes app, en este caso finalizo una para realizar tests donde dentro del archivo js se puede ir añadiendo más objetos para aumentar la lista de preguntas, teniendo en cuenta que hay que definir en correctAnswer la solución según aparezca en el array answers [0, 1, 2].    
- -nota: 2h por la mañana (+2 mordidas primeros 33' hueso javascript y 33' proyectos js) y 2h por la tarde (+1 primeros 33' hueso js y +1 acumulado del día por > de tres horas este día).  
+ -nota: 2h por la mañana (+2 mordidas primeros 33' hueso javascript y 33' proyectos js) y 2h por la tarde (+1 primeros 33' hueso js y +1 acumulado del día por > de tres horas este día). Añado + 1  por premio CONSTANCIA (siempre al acumular 33 mordiscos(33, 66,99...).  
  #
 ### Fecha 21/01/2024 =  6 mordidas - 8h 00'// Acumulado =  97 mordidas - 152h 30'.  
 -Lugar: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)) y uso de IA Llama 2 y Copilot-Bing para comenzar a desarrollar la webapp de Desafío333 para crear, calcular y acumular mordidas sin usar backend, en principio intentando en localstorage para guardar la info del nombre del Desafío333, sus huesos (destrezas o proyectos) y mordidas y tiempo acumulado.           
