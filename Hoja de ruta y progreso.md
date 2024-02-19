@@ -4,10 +4,9 @@
 En este momento esta hoja de ruta va ligada a adquirir bases para conectar con próximo Desafío Web3: lenguaje Solidity de Ethereum, el entorno web3 y proyectos web2-web3.  
 Y por supuesto para continuar posteriormente con el aprendizaje más avanzado en Javascript y su entorno.
 #### Tributo a los espacios y comunidades que me ayudan mayormente a lograr este desafío.  
-**Por orden idioma español>inglés, todos valiosos: [Openbootcamp](https://open-bootcamp.com/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Alchemy University](https://university.alchemy.com/home) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript), [W3schools](https://www.w3schools.com/js/default.asp), [Stackoverflow](https://stackoverflow.com/questions) pero agradecido también a los otros muchos de este vasto campo en los que me opoyo puntualmente.**  
+**Por orden idioma español>inglés, todos valiosos: [SoyJab](https://www.youtube.com/@soyjab) - [Openbootcamp](https://open-bootcamp.com/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Alchemy University](https://university.alchemy.com/home) y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript), [W3schools](https://www.w3schools.com/js/default.asp), [Stackoverflow](https://stackoverflow.com/questions) pero agradecido también a los otros muchos de este vasto campo en los que me opoyo puntualmente.**  
  
 #
-PROYECTOS A DESARROLLAR dentro de este desafío: **["Proyecto IAC"](https://github.com/Eccedev/Proyecto-IAC/tree/main) (Web-Portafolio + PWA + DAPP-web2-web3 + APP + Plataforma + ...)**  
 PROYECTOS FINALIZADOS: [Aplicaciones de citas aleatorias, cronómetro, lista de tareas, juego, aplicación web educativa, app de tests, etc.](https://github.com/Eccedev/Proyectos-Javascript-finalizados/tree/main)               
 **nota**: propósito 2024: CODIFICAR MINIMO 1 HORA CADA DÍA de lunes a viernes || >= 7h x semana.  
 #  
