@@ -11,9 +11,14 @@ PROYECTOS A DESARROLLAR dentro de este desafío: **["Proyecto IAC"](https://gith
 PROYECTOS FINALIZADOS: [Aplicaciones de citas aleatorias, cronómetro, lista de tareas, juego, aplicación web educativa, app de tests, etc.](https://github.com/Eccedev/Proyectos-Javascript-finalizados/tree/main)               
 **nota**: propósito 2024: CODIFICAR MINIMO 1 HORA CADA DÍA de lunes a viernes || >= 7h x semana.  
 #  
+### Fecha 19/02/2024 =  1 mordidas - 1h 00'// Acumulado =  137 mordidas - 193h 00'.  
+-Lugar: [JAB - Youtube](https://www.youtube.com/playlist?list=PLRM7PpbqqStK55TlSFBreCHRYqVXtomYs) ACTIVIDADES cortas y sencillas para APRENDER JAVASCRIPT.  
+-Mordida:En JAB-youtube realizar la actividad 2 que conecta html con js y desde ahí modificar el css. También repasar conceptos y pasar a mano y en papel los scripts de js para visualizarlos más rápido cuando quiero buscar alguna forma de realizar una tarea o aclarar algo.  
+-nota: una hora (+1 primeros 33').  
+ # 
 ### Fecha 18/02/2024 =  3 mordidas - 3h 00'// Acumulado =  136 mordidas - 192h 00'.  
 -Lugar: [JAB - Youtube](https://www.youtube.com/playlist?list=PLRM7PpbqqStK4JPmAGtEbTIC9xHU6sOeM) y [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) (JavaScript Algorithms and Data Structures (Beta)).  
--Mordida:En JAB-youtube repasar conceptos y pasar a mano y en papel los scripts de js para visualizarlos más rápido cuando quiero buscar alguna forma de realizar una tarea o aclara algo. En freeCodeCamp el tercer proyecto de ese curso "Learn Basic String and Array Methods by Building a Music Player", hoy hasta paso 26 pero me he atascado ahí. A ver si voy repasando todo para continuar más o menos entendiendo lo que se hace.  
+-Mordida:En JAB-youtube repasar conceptos y pasar a mano y en papel los scripts de js para visualizarlos más rápido cuando quiero buscar alguna forma de realizar una tarea o aclarar algo. En freeCodeCamp el tercer proyecto de ese curso "Learn Basic String and Array Methods by Building a Music Player", hoy hasta paso 26 pero me he atascado ahí. A ver si voy repasando todo para continuar más o menos entendiendo lo que se hace.  
 -nota:  días 14,15 y 16, una hora cada día (+1,+1,+1 primeros 33').  
  # 
 ### Fecha 13/02/2024 =  4 mordidas - 3h 00'// Acumulado =  133 mordidas - 189h 00'.  
