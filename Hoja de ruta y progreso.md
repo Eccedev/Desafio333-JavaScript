@@ -10,6 +10,12 @@ Y por supuesto para continuar posteriormente con el aprendizaje más avanzado en
 PROYECTOS FINALIZADOS: [Aplicaciones de citas aleatorias, cronómetro, lista de tareas, juego, aplicación web educativa, app de tests, etc.](https://github.com/Eccedev/Proyectos-Javascript-finalizados/tree/main)               
 **nota**: propósito 2024: CODIFICAR MINIMO 1 HORA CADA DÍA de lunes a viernes || >= 7h x semana.  
 #  
+### Fecha 8/03/2024 =  2 mordidas - 3h 00'// Acumulado =  144 mordidas - 203h 00'.  
+-Lugar: [JAB - Youtube](https://www.youtube.com/playlist?list=PLRM7PpbqqStK55TlSFBreCHRYqVXtomYs) ACTIVIDADES cortas y sencillas para APRENDER JAVASCRIPT.  
+-Mordida:En JAB-youtube realizar la actividad 7 (insertAdjacentHTML, setAtribute, bucle for) y pasar a mano y en papel los scripts de js para visualizarlos más rápido cuando quiero buscar alguna forma de realizar una tarea o aclarar algo.  
+-nota1: 3 horas por la mañana (+2 por primeros 33'+>= 3h).  
+-nota2: me faltan horas para dedicarle a js por la uni :-( .  
+ # 
 ### Fecha 29/02/2024 =  2 mordidas - 2h 00'// Acumulado =  142 mordidas - 200h 00'.  
 -Lugar: [JAB - Youtube](https://www.youtube.com/playlist?list=PLRM7PpbqqStK55TlSFBreCHRYqVXtomYs) ACTIVIDADES cortas y sencillas para APRENDER JAVASCRIPT.  
 -Mordida:En JAB-youtube realizar la actividad 6 y pasar a mano y en papel los scripts de js para visualizarlos más rápido cuando quiero buscar alguna forma de realizar una tarea o aclarar algo.  
